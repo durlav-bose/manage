@@ -1,0 +1,244 @@
+[
+  {
+    "group": "nodes",
+    "data": {
+      "id": "web_dev",
+      "name": "web developer"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "react",
+      "parent": "web_dev",
+      "occupation_id": "web_dev",
+      "occupation_title": "web developer",
+      "skill_name": "React Js Library"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "vue",
+      "parent": "web_dev",
+      "occupation_id": "web_dev",
+      "occupation_title": "web developer",
+      "skill_name": "Vue Js Framework"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "node",
+      "parent": "web_dev",
+      "occupation_id": "web_dev",
+      "occupation_title": "web developer",
+      "skill_name": "Node Js"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "php",
+      "parent": "web_dev",
+      "occupation_id": "web_dev",
+      "occupation_title": "Web Developer",
+      "skill_name": "php developer"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "laravel",
+      "parent": "web_dev",
+      "occupation_id": "web_dev",
+      "occupation_title": "Web Developer",
+      "skill_name": "Laravel Developer"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "mysql",
+      "parent": "web_dev",
+      "occupation_id": "web_dev",
+      "occupation_title": "Web Developer",
+      "skill_name": "Mysql Developer"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "grpc",
+      "parent": "web_dev",
+      "occupation_id": "web_dev",
+      "occupation_title": "Web Developer",
+      "skill_name": "Grpc Developer"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "golang",
+      "parent": "web_dev",
+      "occupation_id": "web_dev",
+      "occupation_title": "Web Developer",
+      "skill_name": "Golang Developer"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "devops",
+      "name": "Devops"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "aws",
+      "parent": "devops",
+      "occupation_id": "devops",
+      "occupation_title": "Devops",
+      "skill_name": "Aws Engineer"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "git",
+      "parent": "devops",
+      "occupation_id": "devops",
+      "occupation_title": "Devops",
+      "skill_name": "Git"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "bash",
+      "parent": "devops",
+      "occupation_id": "devops",
+      "occupation_title": "Devops",
+      "skill_name": "bash Script"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "docker",
+      "parent": "devops",
+      "occupation_id": "devops",
+      "occupation_title": "Devops",
+      "skill_name": "Docker"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cicd",
+      "parent": "devops",
+      "occupation_id": "devops",
+      "occupation_title": "Devops",
+      "skill_name": "Cicd Developer"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "gclud",
+      "parent": "devops",
+      "occupation_id": "devops",
+      "occupation_title": "Devops",
+      "skill_name": "Gclud Developer"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "kubernetes",
+      "parent": "devops",
+      "occupation_id": "devops",
+      "occupation_title": "Devops",
+      "skill_name": "Kubernetes Developer"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "digital_ocean",
+      "parent": "devops",
+      "occupation_id": "devops",
+      "occupation_title": "Devops",
+      "skill_name": "Digital Ocean Developer"
+    }
+  },
+
+  {
+    "group": "nodes",
+    "data": {
+      "id": "ai",
+      "name": "AI Engineer"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "probability",
+      "parent": "ai",
+      "occupation_id": "ai",
+      "occupation_title": "AI Engineer",
+      "skill_name": "Math"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "statistics",
+      "parent": "ai",
+      "occupation_id": "ai",
+      "occupation_title": "AI Engineer",
+      "skill_name": "Math"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "python",
+      "parent": "ai",
+      "occupation_id": "ai",
+      "occupation_title": "AI Engineer",
+      "skill_name": "python developer"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "data_mining",
+      "parent": "ai",
+      "occupation_id": "ai",
+      "occupation_title": "AI Engineer",
+      "skill_name": "Data Mining"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "neural_network",
+      "parent": "ai",
+      "occupation_id": "ai",
+      "occupation_title": "AI Engineer",
+      "skill_name": "Neural Networking"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "image_processing",
+      "parent": "ai",
+      "occupation_id": "ai",
+      "occupation_title": "AI Engineer",
+      "skill_name": "Image Processing"
+    }
+  }
+]

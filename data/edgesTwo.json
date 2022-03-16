@@ -1,0 +1,122 @@
+[
+  {
+    "group": "edges",
+    "data": {
+      "id": "edge_1",
+      "source": "react",
+      "target": "vue"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "edge_2",
+      "source": "react",
+      "target": "node"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "edge_3",
+      "source": "mysql",
+      "target": "grpc"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "edge_4",
+      "source": "grpc",
+      "target": "golang"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "edge_5",
+      "source": "php",
+      "target": "laravel"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "edge_6",
+      "source": "aws",
+      "target": "git"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "edge_7",
+      "source": "bash",
+      "target": "git"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "edge_8",
+      "source": "gclud",
+      "target": "cicd"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "edge_9",
+      "source": "cicd",
+      "target": "docker"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "edge_10",
+      "source": "kubernetes",
+      "target": "docker"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "edge_11",
+      "source": "statistics",
+      "target": "probability"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "edge_12",
+      "source": "statistics",
+      "target": "python"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "edge_13",
+      "source": "data_mining",
+      "target": "image_processing"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "edge_14",
+      "source": "image_processing",
+      "target": "neural_network"
+    }
+  },
+  {
+    "group": "edges",
+    "data": {
+      "id": "edge_15",
+      "source": "web_dev",
+      "target": "devops"
+    }
+  }
+]

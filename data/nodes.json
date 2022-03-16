@@ -1,0 +1,5519 @@
+[
+  {
+    "group": "nodes",
+    "data": {
+      "id": "web_dev",
+      "name": "web developer"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "js",
+      "parent": "web_dev",
+      "occupation_id": "web_deb_1",
+      "occupation_title": "web developer",
+      "skill_name": "JavaScript"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "rwd",
+      "parent": "web_dev",
+      "occupation_id": "web_deb_2",
+      "occupation_title": "web developer",
+      "skill_name": "Responsive web design"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15621",
+      "parent": "cluster_0_124",
+      "occupation_id": "11-9121.02",
+      "occupation_title": "Water Resource Specialists",
+      "task_statement": "Write proposals, project reports, informational brochures, or other documents on wastewater purification, water supply and demand, or other water resource subjects."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16324",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Write technical reports or publications related to water resources development or water use efficiency."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21055",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2199.07",
+      "occupation_title": "Photonics Engineers",
+      "task_statement": "Write reports or proposals related to photonics research or development projects."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21056",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2199.07",
+      "occupation_title": "Photonics Engineers",
+      "task_statement": "Document photonics system or component design processes, including objectives, issues, or outcomes."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_1070",
+      "parent": "cluster_0_124",
+      "occupation_id": "11-9041.00",
+      "occupation_title": "Architectural and Engineering Managers",
+      "task_statement": "Present and explain proposals, reports, or findings to clients."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_14687",
+      "parent": "cluster_0_124",
+      "occupation_id": "15-1299.08",
+      "occupation_title": "Computer Systems Engineers/Architects",
+      "task_statement": "Communicate project information through presentations, technical reports, or white papers."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18137",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2112.02",
+      "occupation_title": "Validation Engineers",
+      "task_statement": "Prepare detailed reports or design statements, based on results of validation and qualification tests or reviews of procedures and protocols."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20956",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2161.00",
+      "occupation_title": "Nuclear Engineers",
+      "task_statement": "Prepare technical reports of findings or recommendations, based on synthesized analyses of test results."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_3554",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2041.00",
+      "occupation_title": "Chemical Engineers",
+      "task_statement": "Prepare estimate of production costs and production progress reports for management."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18182",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2112.03",
+      "occupation_title": "Manufacturing Engineers",
+      "task_statement": "Prepare reports summarizing information or trends related to manufacturing performance."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_155",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2051.00",
+      "occupation_title": "Civil Engineers",
+      "task_statement": "Conduct studies of traffic patterns or environmental conditions to identify engineering problems and assess potential project impact."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_1365",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2071.00",
+      "occupation_title": "Electrical Engineers",
+      "task_statement": "Conduct field surveys or study maps, graphs, diagrams, or other data to identify and correct power system problems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15875",
+      "parent": "cluster_0_124",
+      "occupation_id": "13-1081.01",
+      "occupation_title": "Logistics Engineers",
+      "task_statement": "Conduct logistics studies or analyses, such as time studies, zero-base analyses, rate analyses, network analyses, flow-path analyses, or supply chain analyses."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_22007",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-3024.00",
+      "occupation_title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "task_statement": "Conduct statistical studies to analyze or compare production costs for sustainable and nonsustainable designs."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20170",
+      "parent": "cluster_0_124",
+      "occupation_id": "11-9041.00",
+      "occupation_title": "Architectural and Engineering Managers",
+      "task_statement": "Manage the coordination and overall integration of technical activities in architecture or engineering projects."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20494",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2072.00",
+      "occupation_title": "Electronics Engineers, Except Computer",
+      "task_statement": "Evaluate project work to ensure effectiveness, technical adequacy, or compatibility in the resolution of complex electronics engineering problems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15879",
+      "parent": "cluster_0_124",
+      "occupation_id": "13-1081.01",
+      "occupation_title": "Logistics Engineers",
+      "task_statement": "Evaluate effectiveness of current or future logistical processes."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_14685",
+      "parent": "cluster_0_124",
+      "occupation_id": "15-1299.08",
+      "occupation_title": "Computer Systems Engineers/Architects",
+      "task_statement": "Evaluate existing systems to determine effectiveness, and suggest changes to meet organizational requirements."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15428",
+      "parent": "cluster_0_124",
+      "occupation_id": "11-3051.01",
+      "occupation_title": "Quality Control Systems Managers",
+      "task_statement": "Analyze quality control test results and provide feedback and interpretation to production management or staff."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15424",
+      "parent": "cluster_0_124",
+      "occupation_id": "11-3051.01",
+      "occupation_title": "Quality Control Systems Managers",
+      "task_statement": "Direct the tracking of defects, test results, or other regularly reported quality control data."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18131",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2112.02",
+      "occupation_title": "Validation Engineers",
+      "task_statement": "Analyze validation test data to determine whether systems or processes have met validation criteria or to identify root causes of production problems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18128",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2112.02",
+      "occupation_title": "Validation Engineers",
+      "task_statement": "Design validation study features, such as sampling, testing, or analytical methodologies."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18134",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2112.02",
+      "occupation_title": "Validation Engineers",
+      "task_statement": "Direct validation activities, such as protocol creation or testing."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18143",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2112.02",
+      "occupation_title": "Validation Engineers",
+      "task_statement": "Coordinate the implementation or scheduling of validation testing with affected departments and personnel."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16966",
+      "parent": "cluster_0_124",
+      "occupation_id": "19-4099.01",
+      "occupation_title": "Quality Control Analysts",
+      "task_statement": "Supply quality control data necessary for regulatory submissions."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16620",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-3029.01",
+      "occupation_title": "Non-Destructive Testing Specialists",
+      "task_statement": "Interpret or evaluate test results in accordance with applicable codes, standards, specifications, or procedures."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16974",
+      "parent": "cluster_0_124",
+      "occupation_id": "19-4099.01",
+      "occupation_title": "Quality Control Analysts",
+      "task_statement": "Interpret test results, compare them to established specifications and control limits, and make recommendations on appropriateness of data for release."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16979",
+      "parent": "cluster_0_124",
+      "occupation_id": "19-4099.01",
+      "occupation_title": "Quality Control Analysts",
+      "task_statement": "Compile laboratory test data and perform appropriate analyses."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16968",
+      "parent": "cluster_0_124",
+      "occupation_id": "19-4099.01",
+      "occupation_title": "Quality Control Analysts",
+      "task_statement": "Review data from contract laboratories to ensure accuracy and regulatory compliance."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15409",
+      "parent": "cluster_0_124",
+      "occupation_id": "11-3051.01",
+      "occupation_title": "Quality Control Systems Managers",
+      "task_statement": "Evaluate new testing and sampling methodologies or technologies to determine usefulness."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16962",
+      "parent": "cluster_0_124",
+      "occupation_id": "19-4099.01",
+      "occupation_title": "Quality Control Analysts",
+      "task_statement": "Develop and qualify new testing methods."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_14683",
+      "parent": "cluster_0_124",
+      "occupation_id": "15-1299.08",
+      "occupation_title": "Computer Systems Engineers/Architects",
+      "task_statement": "Design and conduct hardware or software tests."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_1431",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2141.00",
+      "occupation_title": "Mechanical Engineers",
+      "task_statement": "Design test control apparatus or equipment or develop procedures for testing products."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20726",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2011.00",
+      "occupation_title": "Aerospace Engineers",
+      "task_statement": "Develop design criteria for aeronautical or aerospace products or systems, including testing methods, production costs, quality standards, environmental standards, or completion dates."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20963",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2112.03",
+      "occupation_title": "Manufacturing Engineers",
+      "task_statement": "Design tests of finished products or process capabilities to establish standards or validate process requirements."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21051",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2112.02",
+      "occupation_title": "Validation Engineers",
+      "task_statement": "Study product characteristics or customer requirements to determine validation objectives and standards."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18180",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2112.03",
+      "occupation_title": "Manufacturing Engineers",
+      "task_statement": "Review product designs for manufacturability or completeness."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_1337",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2011.00",
+      "occupation_title": "Aerospace Engineers",
+      "task_statement": "Plan or conduct experimental, environmental, operational, or stress tests on models or prototypes of aircraft or aerospace systems or equipment."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_9944",
+      "parent": "cluster_0_124",
+      "occupation_id": "49-2091.00",
+      "occupation_title": "Avionics Technicians",
+      "task_statement": "Assemble prototypes or models of circuits, instruments, and systems for use in testing."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21910",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2121.00",
+      "occupation_title": "Marine Engineers and Naval Architects",
+      "task_statement": "Conduct analytical, environmental, operational, or performance studies to develop designs for products, such as marine engines, equipment, and structures."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_1420",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2141.00",
+      "occupation_title": "Mechanical Engineers",
+      "task_statement": "Conduct research that tests or analyzes the feasibility, design, operation, or performance of equipment, components, or systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18196",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2199.07",
+      "occupation_title": "Photonics Engineers",
+      "task_statement": "Conduct testing to determine functionality or optimization or to establish limits of photonics systems or components."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_9937",
+      "parent": "cluster_0_124",
+      "occupation_id": "49-2091.00",
+      "occupation_title": "Avionics Technicians",
+      "task_statement": "Interpret flight test data to diagnose malfunctions and systemic performance problems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11748",
+      "parent": "cluster_0_124",
+      "occupation_id": "49-2095.00",
+      "occupation_title": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+      "task_statement": "Analyze test data to diagnose malfunctions, to determine performance characteristics of systems, or to evaluate effects of system modifications."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11752",
+      "parent": "cluster_0_124",
+      "occupation_id": "49-2095.00",
+      "occupation_title": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+      "task_statement": "Schedule and supervise the construction and testing of special devices and the implementation of unique monitoring or control systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_17812",
+      "parent": "cluster_0_124",
+      "occupation_id": "49-9081.00",
+      "occupation_title": "Wind Turbine Service Technicians",
+      "task_statement": "Test structures, controls, or mechanical, hydraulic, or electrical systems, according to test plans or in coordination with engineers."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15431",
+      "parent": "cluster_0_124",
+      "occupation_id": "11-3051.01",
+      "occupation_title": "Quality Control Systems Managers",
+      "task_statement": "Direct product testing activities throughout production cycles."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18473",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2041.00",
+      "occupation_title": "Chemical Engineers",
+      "task_statement": "Perform tests and monitor performance of processes throughout stages of production to determine degree of control over variables such as temperature, density, specific gravity, and pressure."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20727",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-2011.00",
+      "occupation_title": "Aerospace Engineers",
+      "task_statement": "Diagnose performance problems by reviewing reports or documentation from customers or field engineers or by inspecting malfunctioning or damaged products."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11727",
+      "parent": "cluster_0_124",
+      "occupation_id": "49-2093.00",
+      "occupation_title": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+      "task_statement": "Inspect and test electrical systems and equipment to locate and diagnose malfunctions, using visual inspections, testing devices, and computer software."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11743",
+      "parent": "cluster_0_124",
+      "occupation_id": "49-2095.00",
+      "occupation_title": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+      "task_statement": "Inspect and test equipment and circuits to identify malfunctions or defects, using wiring diagrams and testing devices such as ohmmeters, voltmeters, or ammeters."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_13751",
+      "parent": "cluster_0_124",
+      "occupation_id": "49-3041.00",
+      "occupation_title": "Farm Equipment Mechanics and Service Technicians",
+      "task_statement": "Examine and listen to equipment, read inspection reports, and confer with customers to locate and diagnose malfunctions."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10892",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-3024.00",
+      "occupation_title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "task_statement": "Test performance of electromechanical assemblies, using test instruments such as oscilloscopes, electronic voltmeters, or bridges."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16591",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-3024.01",
+      "occupation_title": "Robotics Technicians",
+      "task_statement": "Test performance of robotic assemblies, using instruments such as oscilloscopes, electronic voltmeters, or bridges."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_9934",
+      "parent": "cluster_0_124",
+      "occupation_id": "49-2091.00",
+      "occupation_title": "Avionics Technicians",
+      "task_statement": "Test and troubleshoot instruments, components, and assemblies, using circuit testers, oscilloscopes, or voltmeters."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11749",
+      "parent": "cluster_0_124",
+      "occupation_id": "49-2095.00",
+      "occupation_title": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+      "task_statement": "Test insulators and bushings of equipment by inducing voltage across insulation, testing current, and calculating insulation loss."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_13753",
+      "parent": "cluster_0_124",
+      "occupation_id": "49-3041.00",
+      "occupation_title": "Farm Equipment Mechanics and Service Technicians",
+      "task_statement": "Test and replace electrical components and wiring, using test meters, soldering equipment, and hand tools."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16626",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-3029.01",
+      "occupation_title": "Non-Destructive Testing Specialists",
+      "task_statement": "Interpret the results of all methods of non-destructive testing (NDT), such as acoustic emission, electromagnetic, leak, liquid penetrant, magnetic particle, neutron radiographic, radiographic, thermal or infrared, ultrasonic, vibration analysis, and visual testing."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16615",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-3029.01",
+      "occupation_title": "Non-Destructive Testing Specialists",
+      "task_statement": "Develop or use new non-destructive testing methods, such as acoustic emission testing, leak testing, and thermal or infrared testing."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16622",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-3029.01",
+      "occupation_title": "Non-Destructive Testing Specialists",
+      "task_statement": "Identify defects in solid materials, using ultrasonic testing techniques."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16621",
+      "parent": "cluster_0_124",
+      "occupation_id": "17-3029.01",
+      "occupation_title": "Non-Destructive Testing Specialists",
+      "task_statement": "Identify defects in concrete or other building materials, using thermal or infrared testing."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_106",
+      "name": "Machine Use"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11989",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4032.00",
+      "occupation_title": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Operate tracing attachments to duplicate contours from templates or models."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_12005",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4034.00",
+      "occupation_title": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Mount attachments, such as relieving or tracing attachments, to perform operations, such as duplicating contours of templates or trimming workpieces."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_13653",
+      "parent": "cluster_0_106",
+      "occupation_id": "47-4061.00",
+      "occupation_title": "Rail-Track Laying and Maintenance Equipment Operators",
+      "task_statement": "Operate track wrenches to tighten or loosen bolts at joints that hold ends of rails together."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_13649",
+      "parent": "cluster_0_106",
+      "occupation_id": "47-4061.00",
+      "occupation_title": "Rail-Track Laying and Maintenance Equipment Operators",
+      "task_statement": "Raise rails, using hydraulic jacks, to allow for tie removal and replacement."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_13665",
+      "parent": "cluster_0_106",
+      "occupation_id": "47-4061.00",
+      "occupation_title": "Rail-Track Laying and Maintenance Equipment Operators",
+      "task_statement": "String and attach wire-guidelines machine to rails so that tracks or rails can be aligned or leveled."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_13656",
+      "parent": "cluster_0_106",
+      "occupation_id": "47-4061.00",
+      "occupation_title": "Rail-Track Laying and Maintenance Equipment Operators",
+      "task_statement": "Engage mechanisms that lay tracks or rails to specified gauges."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_13664",
+      "parent": "cluster_0_106",
+      "occupation_id": "47-4061.00",
+      "occupation_title": "Rail-Track Laying and Maintenance Equipment Operators",
+      "task_statement": "Push controls to close grasping devices on track or rail sections so that they can be raised or moved."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_9896",
+      "parent": "cluster_0_106",
+      "occupation_id": "47-5011.00",
+      "occupation_title": "Derrick Operators, Oil and Gas",
+      "task_statement": "Position and align derrick elements, using harnesses and platform climbing devices."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_9902",
+      "parent": "cluster_0_106",
+      "occupation_id": "47-5011.00",
+      "occupation_title": "Derrick Operators, Oil and Gas",
+      "task_statement": "String cables through pulleys and blocks."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_7077",
+      "parent": "cluster_0_106",
+      "occupation_id": "47-5013.00",
+      "occupation_title": "Service Unit Operators, Oil and Gas",
+      "task_statement": "Thread cables through derrick pulleys, using hand tools."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_13650",
+      "parent": "cluster_0_106",
+      "occupation_id": "47-4061.00",
+      "occupation_title": "Rail-Track Laying and Maintenance Equipment Operators",
+      "task_statement": "Adjust controls of machines that spread, shape, raise, level, or align track, according to specifications."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_13662",
+      "parent": "cluster_0_106",
+      "occupation_id": "47-4061.00",
+      "occupation_title": "Rail-Track Laying and Maintenance Equipment Operators",
+      "task_statement": "Turn wheels of machines, using lever controls, to adjust guidelines for track alignments or grades, following specifications."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11980",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4032.00",
+      "occupation_title": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Move machine controls to lower tools to workpieces and to engage automatic feeds."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10150",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4033.00",
+      "occupation_title": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Move machine controls to index workpieces, and to adjust machines for pre-selected operational settings."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11994",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4034.00",
+      "occupation_title": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Move controls to set cutting speeds and depths and feed rates, and to position tools in relation to workpieces."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11987",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4032.00",
+      "occupation_title": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Perform minor assembly, such as fastening parts with nuts, bolts, or screws, using power tools or hand tools."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_12003",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4034.00",
+      "occupation_title": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Move toolholders manually or by turning handwheels, or engage automatic feeding mechanisms to feed tools to and along workpieces."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_9941",
+      "parent": "cluster_0_106",
+      "occupation_id": "49-2091.00",
+      "occupation_title": "Avionics Technicians",
+      "task_statement": "Assemble components such as switches, electrical controls, and junction boxes, using hand tools or soldering irons."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11738",
+      "parent": "cluster_0_106",
+      "occupation_id": "49-2093.00",
+      "occupation_title": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+      "task_statement": "Install fixtures, outlets, terminal boards, switches, and wall boxes, using hand tools."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11736",
+      "parent": "cluster_0_106",
+      "occupation_id": "49-2093.00",
+      "occupation_title": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+      "task_statement": "Measure, cut, and install frameworks and conduit to support and connect wiring, control panels, and junction boxes, using hand tools."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10148",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4033.00",
+      "occupation_title": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Mount and position tools in machine chucks, spindles, or other tool holding devices, using hand tools."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_12002",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4034.00",
+      "occupation_title": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Install holding fixtures, cams, gears, and stops to control stock and tool movement, using hand tools, power tools, and measuring instruments."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10895",
+      "parent": "cluster_0_106",
+      "occupation_id": "17-3024.00",
+      "occupation_title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "task_statement": "Align, fit, or assemble component parts, using hand or power tools, fixtures, templates, or microscopes."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16588",
+      "parent": "cluster_0_106",
+      "occupation_id": "17-3024.01",
+      "occupation_title": "Robotics Technicians",
+      "task_statement": "Align, fit, or assemble components, using hand tools, power tools, fixtures, templates, or microscopes."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_9939",
+      "parent": "cluster_0_106",
+      "occupation_id": "49-2091.00",
+      "occupation_title": "Avionics Technicians",
+      "task_statement": "Adjust, repair, or replace malfunctioning components or assemblies, using hand tools or soldering irons."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_13754",
+      "parent": "cluster_0_106",
+      "occupation_id": "49-3041.00",
+      "occupation_title": "Farm Equipment Mechanics and Service Technicians",
+      "task_statement": "Repair or replace defective parts, using hand tools, milling and woodworking machines, lathes, welding equipment, grinders, or saws."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11979",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4032.00",
+      "occupation_title": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Position and secure workpieces on tables, using bolts, jigs, clamps, shims, or other holding devices."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10141",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4033.00",
+      "occupation_title": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Lift and position workpieces, manually or with hoists, and secure them in hoppers or on machine tables, faceplates, or chucks, using clamps."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11998",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4034.00",
+      "occupation_title": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Lift metal stock or workpieces manually or using hoists, and position and secure them in machines, using fasteners and hand tools."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10899",
+      "parent": "cluster_0_106",
+      "occupation_id": "17-3024.00",
+      "occupation_title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "task_statement": "Operate metalworking machines to fabricate housings, jigs, fittings, or fixtures."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16580",
+      "parent": "cluster_0_106",
+      "occupation_id": "17-3024.01",
+      "occupation_title": "Robotics Technicians",
+      "task_statement": "Fabricate housings, jigs, fittings, or fixtures, using metalworking machines."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_13758",
+      "parent": "cluster_0_106",
+      "occupation_id": "49-3041.00",
+      "occupation_title": "Farm Equipment Mechanics and Service Technicians",
+      "task_statement": "Fabricate new metal parts, using drill presses, engine lathes, and other machine tools."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11982",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4032.00",
+      "occupation_title": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Operate single- or multiple-spindle drill presses to bore holes so that machining operations can be performed on metal or plastic workpieces."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_13666",
+      "parent": "cluster_0_106",
+      "occupation_id": "47-4061.00",
+      "occupation_title": "Rail-Track Laying and Maintenance Equipment Operators",
+      "task_statement": "Operate tie-adzing machines to cut ties and permit insertion of fishplates that hold rails."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10154",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4033.00",
+      "occupation_title": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Thread and hand-feed materials through machine cutters or abraders."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11976",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4032.00",
+      "occupation_title": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Select and set cutting speeds, feed rates, depths of cuts, and cutting tools, according to machining instructions or knowledge of metal properties."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11996",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4034.00",
+      "occupation_title": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Select cutting tools and tooling instructions, according to written specifications or knowledge of metal properties and shop mathematics."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11978",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4032.00",
+      "occupation_title": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Change worn cutting tools, using wrenches."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11990",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4032.00",
+      "occupation_title": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Sharpen cutting tools, using bench grinders."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10142",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4033.00",
+      "occupation_title": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Set up, operate, or tend grinding and related tools that remove excess material or burrs from surfaces, sharpen edges or corners, or buff, hone, or polish metal or plastic workpieces."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11999",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4034.00",
+      "occupation_title": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Replace worn tools, and sharpen dull cutting tools and dies, using bench grinders or cutter-grinding machines."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_13647",
+      "parent": "cluster_0_106",
+      "occupation_id": "47-4061.00",
+      "occupation_title": "Rail-Track Laying and Maintenance Equipment Operators",
+      "task_statement": "Dress and reshape worn or damaged railroad switch points or frogs, using portable power grinders."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_13652",
+      "parent": "cluster_0_106",
+      "occupation_id": "47-4061.00",
+      "occupation_title": "Rail-Track Laying and Maintenance Equipment Operators",
+      "task_statement": "Grind ends of new or worn rails to attain smooth joints, using portable grinders."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_13657",
+      "parent": "cluster_0_106",
+      "occupation_id": "47-4061.00",
+      "occupation_title": "Rail-Track Laying and Maintenance Equipment Operators",
+      "task_statement": "Clean or make minor repairs to machines or equipment."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11750",
+      "parent": "cluster_0_106",
+      "occupation_id": "49-2095.00",
+      "occupation_title": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+      "task_statement": "Repair, replace, and clean equipment and components such as circuit breakers, brushes, and commutators."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10156",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4033.00",
+      "occupation_title": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Repair or replace machine parts, using hand tools, or notify engineering personnel when corrective action is required."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11756",
+      "parent": "cluster_0_106",
+      "occupation_id": "49-2095.00",
+      "occupation_title": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+      "task_statement": "Maintain inventories of spare parts for all equipment, requisitioning parts as necessary."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_17815",
+      "parent": "cluster_0_106",
+      "occupation_id": "49-9081.00",
+      "occupation_title": "Wind Turbine Service Technicians",
+      "task_statement": "Maintain tool and spare parts inventories required for repair, installation, or replacement services."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21060",
+      "parent": "cluster_0_106",
+      "occupation_id": "17-3024.01",
+      "occupation_title": "Robotics Technicians",
+      "task_statement": "Maintain inventories of robotic production supplies, such as sensors or cables."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10157",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4033.00",
+      "occupation_title": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Maintain stocks of machine parts and machining tools."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10152",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4033.00",
+      "occupation_title": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Compute machine indexings and settings for specified dimensions and base reference points."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11993",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4034.00",
+      "occupation_title": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Adjust machine controls and change tool settings to keep dimensions within specified tolerances."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_12001",
+      "parent": "cluster_0_106",
+      "occupation_id": "51-4034.00",
+      "occupation_title": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Compute unspecified dimensions and machine settings, using knowledge of metal properties and shop mathematics."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10896",
+      "parent": "cluster_0_106",
+      "occupation_id": "17-3024.00",
+      "occupation_title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "task_statement": "Inspect parts for surface defects."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16619",
+      "parent": "cluster_0_106",
+      "occupation_id": "17-3029.01",
+      "occupation_title": "Non-Destructive Testing Specialists",
+      "task_statement": "Visually examine materials, structures, or components for signs of corrosion, metal fatigue, cracks, or other flaws, using tools and equipment such as endoscopes, closed-circuit television systems, and fiber optics."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_78",
+      "name": "Water Management"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15634",
+      "parent": "cluster_0_78",
+      "occupation_id": "11-9121.02",
+      "occupation_title": "Water Resource Specialists",
+      "task_statement": "Develop strategies for watershed operations to meet water supply and conservation goals or to ensure regulatory compliance with clean water laws or regulations."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15628",
+      "parent": "cluster_0_78",
+      "occupation_id": "11-9121.02",
+      "occupation_title": "Water Resource Specialists",
+      "task_statement": "Develop plans to protect watershed health or rehabilitate watersheds."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15623",
+      "parent": "cluster_0_78",
+      "occupation_id": "11-9121.02",
+      "occupation_title": "Water Resource Specialists",
+      "task_statement": "Provide technical expertise to assist communities in the development or implementation of storm water monitoring or other water programs."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16326",
+      "parent": "cluster_0_78",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Provide technical support on water resource or treatment issues to government agencies."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15618",
+      "parent": "cluster_0_78",
+      "occupation_id": "11-9121.02",
+      "occupation_title": "Water Resource Specialists",
+      "task_statement": "Perform hydrologic, hydraulic, or water quality modeling."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16333",
+      "parent": "cluster_0_78",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Perform hydrological analyses, using three-dimensional simulation software, to model the movement of water or forecast the dispersion of chemical pollutants in the water supply."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16332",
+      "parent": "cluster_0_78",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Perform mathematical modeling of underground or surface water resources, such as floodplains, ocean coastlines, streams, rivers, or wetlands."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21166",
+      "parent": "cluster_0_78",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Evaluate the operation and maintenance of water or wastewater systems to identify ways to improve their efficiency."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16334",
+      "parent": "cluster_0_78",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Perform hydraulic analyses of water supply systems or water distribution networks to model flow characteristics, test for pressure losses, or to identify opportunities to mitigate risks and improve operational efficiency."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16340",
+      "parent": "cluster_0_78",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Analyze the efficiency of water delivery structures, such as dams, tainter gates, canals, pipes, penstocks, or cofferdams."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15633",
+      "parent": "cluster_0_78",
+      "occupation_id": "11-9121.02",
+      "occupation_title": "Water Resource Specialists",
+      "task_statement": "Analyze storm water systems to identify opportunities for water resource improvements."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16341",
+      "parent": "cluster_0_78",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Analyze storm water or floodplain drainage systems to control erosion, stabilize river banks, repair channel streams, or design bridges."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16347",
+      "parent": "cluster_0_78",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Design water distribution systems for potable or non-potable water."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16345",
+      "parent": "cluster_0_78",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Design water runoff collection networks, water supply channels, or water supply system networks."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15625",
+      "parent": "cluster_0_78",
+      "occupation_id": "11-9121.02",
+      "occupation_title": "Water Resource Specialists",
+      "task_statement": "Identify methods for distributing purified wastewater into rivers, streams, or oceans."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16349",
+      "parent": "cluster_0_78",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Design pumping systems, pumping stations, pipelines, force mains, or sewers for the collection of wastewater."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16343",
+      "parent": "cluster_0_78",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Analyze and recommend chemical, biological, or other wastewater treatment methods to prepare water for industrial or domestic use."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16350",
+      "parent": "cluster_0_78",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Design domestic or industrial water or wastewater treatment plants, including advanced facilities with sequencing batch reactors (SBR), membranes, lift stations, headworks, surge overflow basins, ultraviolet disinfection systems, aerobic digesters, sludge lagoons, or control buildings."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16335",
+      "parent": "cluster_0_78",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Oversee the construction of decentralized or on-site wastewater treatment systems, including reclaimed water facilities."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15616",
+      "parent": "cluster_0_78",
+      "occupation_id": "11-9121.02",
+      "occupation_title": "Water Resource Specialists",
+      "task_statement": "Review or evaluate designs for water detention facilities, storm drains, flood control facilities, or other hydraulic structures."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16325",
+      "parent": "cluster_0_78",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Review and critique proposals, plans, or designs related to water or wastewater treatment systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16337",
+      "parent": "cluster_0_78",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Conduct feasibility studies for the construction of facilities, such as water supply systems, runoff collection networks, water and wastewater treatment plants, or wastewater collection systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15632",
+      "parent": "cluster_0_78",
+      "occupation_id": "11-9121.02",
+      "occupation_title": "Water Resource Specialists",
+      "task_statement": "Conduct cost-benefit studies for watershed improvement projects or water management alternatives."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16339",
+      "parent": "cluster_0_78",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Conduct cost-benefit analyses for the construction of water supply systems, runoff collection networks, water and wastewater treatment plants, or wastewater collection systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_1074",
+      "parent": "cluster_0_78",
+      "occupation_id": "11-9041.00",
+      "occupation_title": "Architectural and Engineering Managers",
+      "task_statement": "Direct the engineering of water control, treatment, or distribution projects."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_5334",
+      "parent": "cluster_0_78",
+      "occupation_id": "17-2021.00",
+      "occupation_title": "Agricultural Engineers",
+      "task_statement": "Plan and direct construction of rural electric-power distribution systems, and irrigation, drainage, and flood control systems for soil and water conservation."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15635",
+      "parent": "cluster_0_78",
+      "occupation_id": "11-9121.02",
+      "occupation_title": "Water Resource Specialists",
+      "task_statement": "Conduct, or oversee the conduct of, chemical, physical, and biological water quality monitoring or sampling to ensure compliance with water quality standards."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15629",
+      "parent": "cluster_0_78",
+      "occupation_id": "11-9121.02",
+      "occupation_title": "Water Resource Specialists",
+      "task_statement": "Develop or implement standardized water monitoring and assessment methods."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15622",
+      "parent": "cluster_0_78",
+      "occupation_id": "11-9121.02",
+      "occupation_title": "Water Resource Specialists",
+      "task_statement": "Recommend new or revised policies, procedures, or regulations to support water resource or conservation goals."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16328",
+      "parent": "cluster_0_78",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Identify design alternatives for the development of new water resources."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16329",
+      "parent": "cluster_0_78",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Develop plans for new water resources or water efficiency programs."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15627",
+      "parent": "cluster_0_78",
+      "occupation_id": "11-9121.02",
+      "occupation_title": "Water Resource Specialists",
+      "task_statement": "Identify and characterize specific causes or sources of water pollution."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16331",
+      "parent": "cluster_0_78",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Conduct water quality studies to identify and characterize water pollutant sources."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16338",
+      "parent": "cluster_0_78",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Conduct environmental impact studies related to water and wastewater collection, treatment, or distribution."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_120",
+      "name": "Product Improvement"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15819",
+      "parent": "cluster_0_120",
+      "occupation_id": "11-9199.09",
+      "occupation_title": "Wind Energy Operations Managers",
+      "task_statement": "Develop relationships and communicate with customers, site managers, developers, land owners, authorities, utility representatives, or residents."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_5337",
+      "parent": "cluster_0_120",
+      "occupation_id": "17-2021.00",
+      "occupation_title": "Agricultural Engineers",
+      "task_statement": "Meet with clients, such as district or regional councils, farmers, and developers, to discuss their needs."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15426",
+      "parent": "cluster_0_120",
+      "occupation_id": "11-3051.01",
+      "occupation_title": "Quality Control Systems Managers",
+      "task_statement": "Confer with marketing and sales departments to define client requirements and expectations."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_14666",
+      "parent": "cluster_0_120",
+      "occupation_id": "15-1299.08",
+      "occupation_title": "Computer Systems Engineers/Architects",
+      "task_statement": "Communicate with staff or clients to understand specific system requirements."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20741",
+      "parent": "cluster_0_120",
+      "occupation_id": "17-2141.00",
+      "occupation_title": "Mechanical Engineers",
+      "task_statement": "Provide technical customer service."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16957",
+      "parent": "cluster_0_120",
+      "occupation_id": "19-4099.01",
+      "occupation_title": "Quality Control Analysts",
+      "task_statement": "Serve as a technical liaison between quality control and other departments, vendors, or contractors."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_1345",
+      "parent": "cluster_0_120",
+      "occupation_id": "17-2011.00",
+      "occupation_title": "Aerospace Engineers",
+      "task_statement": "Plan or coordinate investigation and resolution of customers' reports of technical problems with aircraft or aerospace vehicles."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11740",
+      "parent": "cluster_0_120",
+      "occupation_id": "49-2093.00",
+      "occupation_title": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+      "task_statement": "Confer with customers to determine the nature of malfunctions."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15420",
+      "parent": "cluster_0_120",
+      "occupation_id": "11-3051.01",
+      "occupation_title": "Quality Control Systems Managers",
+      "task_statement": "Identify quality problems or areas for improvement and recommend solutions."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15419",
+      "parent": "cluster_0_120",
+      "occupation_id": "11-3051.01",
+      "occupation_title": "Quality Control Systems Managers",
+      "task_statement": "Instruct vendors or contractors on quality guidelines, testing procedures, or ways to eliminate deficiencies."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16975",
+      "parent": "cluster_0_120",
+      "occupation_id": "19-4099.01",
+      "occupation_title": "Quality Control Analysts",
+      "task_statement": "Identify quality problems and recommend solutions."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20173",
+      "parent": "cluster_0_120",
+      "occupation_id": "11-9041.00",
+      "occupation_title": "Architectural and Engineering Managers",
+      "task_statement": "Assess project feasibility by analyzing technology, resource needs, or market demand."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_151",
+      "parent": "cluster_0_120",
+      "occupation_id": "17-2051.00",
+      "occupation_title": "Civil Engineers",
+      "task_statement": "Estimate quantities and cost of materials, equipment, or labor to determine project feasibility."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20495",
+      "parent": "cluster_0_120",
+      "occupation_id": "17-2072.00",
+      "occupation_title": "Electronics Engineers, Except Computer",
+      "task_statement": "Analyze electronics system requirements, capacity, cost, or customer needs to determine project feasibility."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_1341",
+      "parent": "cluster_0_120",
+      "occupation_id": "17-2011.00",
+      "occupation_title": "Aerospace Engineers",
+      "task_statement": "Analyze project requests, proposals, or engineering data to determine feasibility, productibility, cost, or production time of aerospace or aeronautical products."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21913",
+      "parent": "cluster_0_120",
+      "occupation_id": "17-2121.00",
+      "occupation_title": "Marine Engineers and Naval Architects",
+      "task_statement": "Analyze data to determine feasibility of product proposals."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_1413",
+      "parent": "cluster_0_120",
+      "occupation_id": "17-2141.00",
+      "occupation_title": "Mechanical Engineers",
+      "task_statement": "Research and analyze customer design proposals, specifications, manuals, or other data to evaluate the feasibility, cost, or maintenance requirements of designs or applications."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20175",
+      "parent": "cluster_0_120",
+      "occupation_id": "11-9041.00",
+      "occupation_title": "Architectural and Engineering Managers",
+      "task_statement": "Review, recommend, or approve contracts or cost estimates."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16512",
+      "parent": "cluster_0_120",
+      "occupation_id": "17-2199.08",
+      "occupation_title": "Robotics Engineers",
+      "task_statement": "Review or approve designs, calculations, or cost estimates."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_1339",
+      "parent": "cluster_0_120",
+      "occupation_id": "17-2011.00",
+      "occupation_title": "Aerospace Engineers",
+      "task_statement": "Formulate mathematical models or other methods of computer analysis to develop, evaluate, or modify design, according to customer engineering requirements."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20724",
+      "parent": "cluster_0_120",
+      "occupation_id": "17-2011.00",
+      "occupation_title": "Aerospace Engineers",
+      "task_statement": "Formulate conceptual design of aeronautical or aerospace products or systems to meet customer requirements or conform to environmental regulations."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_1347",
+      "parent": "cluster_0_120",
+      "occupation_id": "17-2071.00",
+      "occupation_title": "Electrical Engineers",
+      "task_statement": "Confer with engineers, customers, or others to discuss existing or potential engineering projects or products."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20496",
+      "parent": "cluster_0_120",
+      "occupation_id": "17-2072.00",
+      "occupation_title": "Electronics Engineers, Except Computer",
+      "task_statement": "Confer with engineers, customers, vendors, or others to discuss existing or potential electronics engineering projects or products."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_14670",
+      "parent": "cluster_0_120",
+      "occupation_id": "15-1299.08",
+      "occupation_title": "Computer Systems Engineers/Architects",
+      "task_statement": "Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21909",
+      "parent": "cluster_0_120",
+      "occupation_id": "17-2121.00",
+      "occupation_title": "Marine Engineers and Naval Architects",
+      "task_statement": "Confer with research personnel to clarify or resolve problems and to develop or modify designs."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_1412",
+      "parent": "cluster_0_120",
+      "occupation_id": "17-2141.00",
+      "occupation_title": "Mechanical Engineers",
+      "task_statement": "Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_28",
+      "name": "Analysis"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_1411",
+      "parent": "cluster_0_28",
+      "occupation_id": "17-2141.00",
+      "occupation_title": "Mechanical Engineers",
+      "task_statement": "Read and interpret blueprints, technical drawings, schematics, or computer-generated reports."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10893",
+      "parent": "cluster_0_28",
+      "occupation_id": "17-3024.00",
+      "occupation_title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "task_statement": "Read blueprints, schematics, diagrams, or technical orders to determine methods and sequences of assembly."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11975",
+      "parent": "cluster_0_28",
+      "occupation_id": "51-4032.00",
+      "occupation_title": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Study machining instructions, job orders, or blueprints to determine dimensional or finish specifications, sequences of operations, setups, or tooling requirements."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10147",
+      "parent": "cluster_0_28",
+      "occupation_id": "51-4033.00",
+      "occupation_title": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Study blueprints, work orders, or machining instructions to determine product specifications, tool requirements, and operational sequences."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11992",
+      "parent": "cluster_0_28",
+      "occupation_id": "51-4034.00",
+      "occupation_title": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Study blueprints, layouts or charts, and job orders for information on specifications and tooling instructions, and to determine material requirements and operational sequences."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15866",
+      "parent": "cluster_0_28",
+      "occupation_id": "13-1081.01",
+      "occupation_title": "Logistics Engineers",
+      "task_statement": "Develop specifications for equipment, tools, facility layouts, or material-handling systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_1354",
+      "parent": "cluster_0_28",
+      "occupation_id": "17-2071.00",
+      "occupation_title": "Electrical Engineers",
+      "task_statement": "Prepare specifications for purchases of materials or equipment."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_5352",
+      "parent": "cluster_0_28",
+      "occupation_id": "17-2072.00",
+      "occupation_title": "Electronics Engineers, Except Computer",
+      "task_statement": "Prepare engineering sketches or specifications for construction, relocation, or installation of equipment, facilities, products, or systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15417",
+      "parent": "cluster_0_28",
+      "occupation_id": "11-3051.01",
+      "occupation_title": "Quality Control Systems Managers",
+      "task_statement": "Participate in the development of product specifications."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_1429",
+      "parent": "cluster_0_28",
+      "occupation_id": "17-2141.00",
+      "occupation_title": "Mechanical Engineers",
+      "task_statement": "Write performance requirements for product development or engineering projects."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_1340",
+      "parent": "cluster_0_28",
+      "occupation_id": "17-2011.00",
+      "occupation_title": "Aerospace Engineers",
+      "task_statement": "Write technical reports or other documentation, such as handbooks or bulletins, for use by engineering staff, management, or customers."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21905",
+      "parent": "cluster_0_28",
+      "occupation_id": "17-2121.00",
+      "occupation_title": "Marine Engineers and Naval Architects",
+      "task_statement": "Prepare technical reports for use by engineering, management, or sales personnel."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16964",
+      "parent": "cluster_0_28",
+      "occupation_id": "19-4099.01",
+      "occupation_title": "Quality Control Analysts",
+      "task_statement": "Write technical reports or documentation, such as deviation reports, testing protocols, and trend analyses."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20176",
+      "parent": "cluster_0_28",
+      "occupation_id": "11-9041.00",
+      "occupation_title": "Architectural and Engineering Managers",
+      "task_statement": "Develop or implement policies, standards, or procedures for engineering and technical work."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_14684",
+      "parent": "cluster_0_28",
+      "occupation_id": "15-1299.08",
+      "occupation_title": "Computer Systems Engineers/Architects",
+      "task_statement": "Establish functional or system standards to address operational requirements, quality requirements, and design constraints."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_5355",
+      "parent": "cluster_0_28",
+      "occupation_id": "17-2072.00",
+      "occupation_title": "Electronics Engineers, Except Computer",
+      "task_statement": "Prepare necessary criteria, procedures, reports, or plans for successful conduct of the project with consideration given to site preparation, facility validation, installation, quality assurance, or testing."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21870",
+      "parent": "cluster_0_28",
+      "occupation_id": "17-2111.00",
+      "occupation_title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "task_statement": "Review plans and specifications for construction of new machinery or equipment to determine whether all safety requirements have been met."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_1071",
+      "parent": "cluster_0_28",
+      "occupation_id": "11-9041.00",
+      "occupation_title": "Architectural and Engineering Managers",
+      "task_statement": "Consult or negotiate with clients to prepare project specifications."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_1060",
+      "parent": "cluster_0_28",
+      "occupation_id": "11-9041.00",
+      "occupation_title": "Architectural and Engineering Managers",
+      "task_statement": "Confer with management, production, or marketing staff to discuss project specifications or procedures."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15867",
+      "parent": "cluster_0_28",
+      "occupation_id": "13-1081.01",
+      "occupation_title": "Logistics Engineers",
+      "task_statement": "Review contractual commitments, customer specifications, or related information to determine logistics or support requirements."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15874",
+      "parent": "cluster_0_28",
+      "occupation_id": "13-1081.01",
+      "occupation_title": "Logistics Engineers",
+      "task_statement": "Determine logistics support requirements, such as facility details, staffing needs, or safety or maintenance plans."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_14673",
+      "parent": "cluster_0_28",
+      "occupation_id": "15-1299.08",
+      "occupation_title": "Computer Systems Engineers/Architects",
+      "task_statement": "Identify system data, hardware, or software components required to meet user needs."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_14677",
+      "parent": "cluster_0_28",
+      "occupation_id": "15-1299.08",
+      "occupation_title": "Computer Systems Engineers/Architects",
+      "task_statement": "Investigate system component suitability for specified purposes, and make recommendations regarding component use."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20498",
+      "parent": "cluster_0_28",
+      "occupation_id": "17-2072.00",
+      "occupation_title": "Electronics Engineers, Except Computer",
+      "task_statement": "Recommend repair or design modifications of electronics components or systems, based on factors such as environment, service, cost, or system capabilities."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18195",
+      "parent": "cluster_0_28",
+      "occupation_id": "17-2199.07",
+      "occupation_title": "Photonics Engineers",
+      "task_statement": "Analyze system performance or operational requirements."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_96",
+      "name": "Sustainability"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20007",
+      "parent": "cluster_0_96",
+      "occupation_id": "13-1081.01",
+      "occupation_title": "Logistics Engineers",
+      "task_statement": "Develop or document procedures to minimize or mitigate carbon output resulting from the movement of materials or products."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19606",
+      "parent": "cluster_0_96",
+      "occupation_id": "17-2051.00",
+      "occupation_title": "Civil Engineers",
+      "task_statement": "Analyze manufacturing processes or byproducts to identify engineering solutions to minimize the output of carbon or other pollutants."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19650",
+      "parent": "cluster_0_96",
+      "occupation_id": "17-2112.03",
+      "occupation_title": "Manufacturing Engineers",
+      "task_statement": "Develop sustainable manufacturing technologies to reduce greenhouse gas emissions, minimize raw material use, replace toxic materials with non-toxic materials, replace non-renewable materials with renewable materials, or reduce waste."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19651",
+      "parent": "cluster_0_96",
+      "occupation_id": "17-2112.03",
+      "occupation_title": "Manufacturing Engineers",
+      "task_statement": "Evaluate current or proposed manufacturing processes or practices for environmental sustainability, considering factors such as greenhouse gas emissions, air pollution, water pollution, energy use, or waste creation."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19605",
+      "parent": "cluster_0_96",
+      "occupation_id": "17-2011.00",
+      "occupation_title": "Aerospace Engineers",
+      "task_statement": "Review aerospace engineering designs to determine how to reduce negative environmental impacts."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19601",
+      "parent": "cluster_0_96",
+      "occupation_id": "17-2011.00",
+      "occupation_title": "Aerospace Engineers",
+      "task_statement": "Design new or modify existing aerospace systems to reduce polluting emissions, such as nitrogen oxide, carbon monoxide, or smoke emissions."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19602",
+      "parent": "cluster_0_96",
+      "occupation_id": "17-2011.00",
+      "occupation_title": "Aerospace Engineers",
+      "task_statement": "Design or engineer filtration systems that reduce harmful emissions."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19525",
+      "parent": "cluster_0_96",
+      "occupation_id": "11-9041.00",
+      "occupation_title": "Architectural and Engineering Managers",
+      "task_statement": "Develop or implement programs to improve sustainability or reduce the environmental impacts of engineering or architecture activities or operations."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19527",
+      "parent": "cluster_0_96",
+      "occupation_id": "11-9041.00",
+      "occupation_title": "Architectural and Engineering Managers",
+      "task_statement": "Evaluate the environmental impacts of engineering, architecture, or research and development activities."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_22010",
+      "parent": "cluster_0_96",
+      "occupation_id": "17-3024.00",
+      "occupation_title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "task_statement": "Develop or implement programs related to the environmental impact of engineering activities."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19609",
+      "parent": "cluster_0_96",
+      "occupation_id": "17-2051.00",
+      "occupation_title": "Civil Engineers",
+      "task_statement": "Develop or implement engineering solutions to clean up industrial accidents or other contaminated sites."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19641",
+      "parent": "cluster_0_96",
+      "occupation_id": "17-2161.00",
+      "occupation_title": "Nuclear Engineers",
+      "task_statement": "Develop or contribute to the development of plans to remediate or restore environments affected by nuclear radiation, such as waste disposal sites."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19640",
+      "parent": "cluster_0_96",
+      "occupation_id": "17-2161.00",
+      "occupation_title": "Nuclear Engineers",
+      "task_statement": "Design fuel cycle models or processes to reduce the quantity of radioactive waste generated from nuclear activities."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19528",
+      "parent": "cluster_0_96",
+      "occupation_id": "11-9041.00",
+      "occupation_title": "Architectural and Engineering Managers",
+      "task_statement": "Identify environmental threats or opportunities associated with the development and launch of new technologies."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19611",
+      "parent": "cluster_0_96",
+      "occupation_id": "17-2051.00",
+      "occupation_title": "Civil Engineers",
+      "task_statement": "Identify environmental risks and develop risk management strategies for civil engineering projects."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_3552",
+      "parent": "cluster_0_96",
+      "occupation_id": "17-2041.00",
+      "occupation_title": "Chemical Engineers",
+      "task_statement": "Develop safety procedures to be employed by workers operating equipment or working in close proximity to ongoing chemical reactions."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18472",
+      "parent": "cluster_0_96",
+      "occupation_id": "17-2041.00",
+      "occupation_title": "Chemical Engineers",
+      "task_statement": "Evaluate chemical equipment and processes to identify ways to optimize performance or to ensure compliance with safety and environmental regulations."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16330",
+      "parent": "cluster_0_96",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Design or select equipment for use in wastewater processing to ensure compliance with government standards."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19667",
+      "parent": "cluster_0_96",
+      "occupation_id": "17-2199.08",
+      "occupation_title": "Robotics Engineers",
+      "task_statement": "Design or program robotics systems for environmental clean-up applications to minimize human exposure to toxic or hazardous materials or to improve the quality or speed of clean-up operations."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19668",
+      "parent": "cluster_0_96",
+      "occupation_id": "17-2199.08",
+      "occupation_title": "Robotics Engineers",
+      "task_statement": "Design robotics applications for manufacturers of green products, such as wind turbines or solar panels, to increase production time, eliminate waste, or reduce costs."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19683",
+      "parent": "cluster_0_96",
+      "occupation_id": "17-3024.00",
+      "occupation_title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "task_statement": "Operate, test, or maintain robotic equipment used for green production applications, such as waste-to-energy conversion systems, minimization of material waste, or replacement of human operators in dangerous work environments."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19628",
+      "parent": "cluster_0_96",
+      "occupation_id": "17-2141.00",
+      "occupation_title": "Mechanical Engineers",
+      "task_statement": "Design integrated mechanical or alternative systems, such as mechanical cooling systems with natural ventilation systems, to improve energy efficiency."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19632",
+      "parent": "cluster_0_96",
+      "occupation_id": "17-2141.00",
+      "occupation_title": "Mechanical Engineers",
+      "task_statement": "Select or install combined heat units, power units, cogeneration equipment, or trigeneration equipment that reduces energy use or pollution."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16558",
+      "parent": "cluster_0_96",
+      "occupation_id": "17-2199.10",
+      "occupation_title": "Wind Energy Engineers",
+      "task_statement": "Develop active control algorithms, electronics, software, electromechanical, or electrohydraulic systems for wind turbines."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16557",
+      "parent": "cluster_0_96",
+      "occupation_id": "17-2199.10",
+      "occupation_title": "Wind Energy Engineers",
+      "task_statement": "Develop specifications for wind technology components, such as gearboxes, blades, generators, frequency converters, or pad transformers."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_1_8",
+      "name": "Photovoltaics"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19618",
+      "parent": "cluster_1_8",
+      "occupation_id": "17-2071.00",
+      "occupation_title": "Electrical Engineers",
+      "task_statement": "Develop systems that produce electricity with renewable energy sources, such as wind, solar, or biofuels."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19619",
+      "parent": "cluster_1_8",
+      "occupation_id": "17-2071.00",
+      "occupation_title": "Electrical Engineers",
+      "task_statement": "Integrate electrical systems with renewable energy systems to improve overall efficiency."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20863",
+      "parent": "cluster_1_8",
+      "occupation_id": "17-2199.03",
+      "occupation_title": "Energy Engineers, Except Wind and Solar",
+      "task_statement": "Research renewable or alternative energy systems or technologies, such as solar thermal or photovoltaic energy."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_22020",
+      "parent": "cluster_1_8",
+      "occupation_id": "17-3024.00",
+      "occupation_title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "task_statement": "Test and analyze thermodynamic systems for renewable energy applications, such as solar or wind, to maximize energy production."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19620",
+      "parent": "cluster_1_8",
+      "occupation_id": "17-2072.00",
+      "occupation_title": "Electronics Engineers, Except Computer",
+      "task_statement": "Develop solar photovoltaic products, such as inverters or energy management systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19664",
+      "parent": "cluster_1_8",
+      "occupation_id": "17-2199.07",
+      "occupation_title": "Photonics Engineers",
+      "task_statement": "Design photonics products, such as light sources, displays, or photovoltaics, to achieve increased energy efficiency."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19665",
+      "parent": "cluster_1_8",
+      "occupation_id": "17-2199.07",
+      "occupation_title": "Photonics Engineers",
+      "task_statement": "Design solar energy photonics or other materials or devices to generate energy."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19666",
+      "parent": "cluster_1_8",
+      "occupation_id": "17-2199.07",
+      "occupation_title": "Photonics Engineers",
+      "task_statement": "Develop photonics sensing or manufacturing technologies to improve the efficiency of manufacturing or related processes."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16574",
+      "parent": "cluster_1_8",
+      "occupation_id": "17-2199.11",
+      "occupation_title": "Solar Energy Systems Engineers",
+      "task_statement": "Design or coordinate design of photovoltaic (PV) or solar thermal systems, including system components, for residential and commercial buildings."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16564",
+      "parent": "cluster_1_8",
+      "occupation_id": "17-2199.11",
+      "occupation_title": "Solar Energy Systems Engineers",
+      "task_statement": "Review specifications and recommend engineering or manufacturing changes to achieve solar design objectives."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16570",
+      "parent": "cluster_1_8",
+      "occupation_id": "17-2199.11",
+      "occupation_title": "Solar Energy Systems Engineers",
+      "task_statement": "Develop design specifications and functional requirements for residential, commercial, or industrial solar energy systems or components."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18194",
+      "parent": "cluster_1_8",
+      "occupation_id": "17-2199.07",
+      "occupation_title": "Photonics Engineers",
+      "task_statement": "Design, integrate, or test photonics systems or components."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18198",
+      "parent": "cluster_1_8",
+      "occupation_id": "17-2199.07",
+      "occupation_title": "Photonics Engineers",
+      "task_statement": "Determine applications of photonics appropriate to meet product objectives or features."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18193",
+      "parent": "cluster_1_8",
+      "occupation_id": "17-2199.07",
+      "occupation_title": "Photonics Engineers",
+      "task_statement": "Conduct research on new photonics technologies."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19662",
+      "parent": "cluster_1_8",
+      "occupation_id": "17-2199.07",
+      "occupation_title": "Photonics Engineers",
+      "task_statement": "Design or develop new crystals for photonics applications."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_14682",
+      "parent": "cluster_1_8",
+      "occupation_id": "15-1299.08",
+      "occupation_title": "Computer Systems Engineers/Architects",
+      "task_statement": "Develop system engineering, software engineering, system integration, or distributed system architectures."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_5351",
+      "parent": "cluster_1_8",
+      "occupation_id": "17-2072.00",
+      "occupation_title": "Electronics Engineers, Except Computer",
+      "task_statement": "Plan or develop applications or modifications for electronic properties used in components, products, or systems to improve technical performance."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_5339",
+      "parent": "cluster_1_8",
+      "occupation_id": "17-2072.00",
+      "occupation_title": "Electronics Engineers, Except Computer",
+      "task_statement": "Design electronic components, software, products, or systems for commercial, industrial, medical, military, or scientific applications."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_22005",
+      "parent": "cluster_1_8",
+      "occupation_id": "17-3024.00",
+      "occupation_title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "task_statement": "Analyze engineering designs of logic or digital circuitry, motor controls, instrumentation, or data acquisition for implementation into new or existing automated, servomechanical, or other electromechanical systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_9945",
+      "parent": "cluster_1_8",
+      "occupation_id": "49-2091.00",
+      "occupation_title": "Avionics Technicians",
+      "task_statement": "Operate computer-aided drafting and design applications to design avionics system modifications."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_1353",
+      "parent": "cluster_1_8",
+      "occupation_id": "17-2071.00",
+      "occupation_title": "Electrical Engineers",
+      "task_statement": "Plan or implement research methodology or procedures to apply principles of electrical theory to engineering projects."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_22006",
+      "parent": "cluster_1_8",
+      "occupation_id": "17-3024.00",
+      "occupation_title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "task_statement": "Collaborate with engineers to implement electromechanical designs in industrial or other settings."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18199",
+      "parent": "cluster_1_8",
+      "occupation_id": "17-2199.07",
+      "occupation_title": "Photonics Engineers",
+      "task_statement": "Develop or test photonic prototypes or models."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18202",
+      "parent": "cluster_1_8",
+      "occupation_id": "17-2199.07",
+      "occupation_title": "Photonics Engineers",
+      "task_statement": "Assist in the transition of photonic prototypes to production."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_36",
+      "name": "Record Keeping"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15512",
+      "parent": "cluster_0_36",
+      "occupation_id": "11-3051.06",
+      "occupation_title": "Hydroelectric Production Managers",
+      "task_statement": "Maintain records of hydroelectric facility operations, maintenance, or repairs."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15813",
+      "parent": "cluster_0_36",
+      "occupation_id": "11-9199.09",
+      "occupation_title": "Wind Energy Operations Managers",
+      "task_statement": "Maintain operations records, such as work orders, site inspection forms, or other documentation."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_5354",
+      "parent": "cluster_0_36",
+      "occupation_id": "17-2072.00",
+      "occupation_title": "Electronics Engineers, Except Computer",
+      "task_statement": "Prepare, review, or maintain maintenance schedules, design documentation, or operational reports or charts."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21902",
+      "parent": "cluster_0_36",
+      "occupation_id": "17-2121.00",
+      "occupation_title": "Marine Engineers and Naval Architects",
+      "task_statement": "Maintain records of engineering department activities, including expense records and details of equipment maintenance and repairs."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16579",
+      "parent": "cluster_0_36",
+      "occupation_id": "17-3024.01",
+      "occupation_title": "Robotics Technicians",
+      "task_statement": "Maintain service records of robotic equipment or automated production systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_9935",
+      "parent": "cluster_0_36",
+      "occupation_id": "49-2091.00",
+      "occupation_title": "Avionics Technicians",
+      "task_statement": "Keep records of maintenance and repair work."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11734",
+      "parent": "cluster_0_36",
+      "occupation_id": "49-2093.00",
+      "occupation_title": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+      "task_statement": "Maintain equipment service records."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11747",
+      "parent": "cluster_0_36",
+      "occupation_id": "49-2095.00",
+      "occupation_title": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+      "task_statement": "Prepare and maintain records detailing tests, repairs, and maintenance."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15414",
+      "parent": "cluster_0_36",
+      "occupation_id": "11-3051.01",
+      "occupation_title": "Quality Control Systems Managers",
+      "task_statement": "Review quality documentation necessary for regulatory submissions and inspections."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15868",
+      "parent": "cluster_0_36",
+      "occupation_id": "13-1081.01",
+      "occupation_title": "Logistics Engineers",
+      "task_statement": "Prepare or validate documentation on automated logistics or maintenance-data reporting or management information systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18146",
+      "parent": "cluster_0_36",
+      "occupation_id": "17-2112.02",
+      "occupation_title": "Validation Engineers",
+      "task_statement": "Prepare, maintain, or review validation and compliance documentation, such as engineering change notices, schematics, or protocols."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18178",
+      "parent": "cluster_0_36",
+      "occupation_id": "17-2112.03",
+      "occupation_title": "Manufacturing Engineers",
+      "task_statement": "Prepare documentation for new manufacturing processes or engineering procedures."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_14668",
+      "parent": "cluster_0_36",
+      "occupation_id": "15-1299.08",
+      "occupation_title": "Computer Systems Engineers/Architects",
+      "task_statement": "Document design specifications, installation instructions, and other system-related information."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_5348",
+      "parent": "cluster_0_36",
+      "occupation_id": "17-2072.00",
+      "occupation_title": "Electronics Engineers, Except Computer",
+      "task_statement": "Prepare documentation containing information such as confidential descriptions or specifications of proprietary hardware or software, product development or introduction schedules, product costs, or information about product performance weaknesses."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15415",
+      "parent": "cluster_0_36",
+      "occupation_id": "11-3051.01",
+      "occupation_title": "Quality Control Systems Managers",
+      "task_statement": "Review and update standard operating procedures or quality assurance manuals."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16965",
+      "parent": "cluster_0_36",
+      "occupation_id": "19-4099.01",
+      "occupation_title": "Quality Control Analysts",
+      "task_statement": "Write or revise standard quality control operating procedures."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15425",
+      "parent": "cluster_0_36",
+      "occupation_id": "11-3051.01",
+      "occupation_title": "Quality Control Systems Managers",
+      "task_statement": "Create and implement inspection and testing criteria or procedures."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15423",
+      "parent": "cluster_0_36",
+      "occupation_id": "11-3051.01",
+      "occupation_title": "Quality Control Systems Managers",
+      "task_statement": "Document testing procedures, methodologies, or criteria."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20743",
+      "parent": "cluster_0_36",
+      "occupation_id": "17-3024.00",
+      "occupation_title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "task_statement": "Prepare written documentation of electromechanical test results."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16625",
+      "parent": "cluster_0_36",
+      "occupation_id": "17-3029.01",
+      "occupation_title": "Non-Destructive Testing Specialists",
+      "task_statement": "Prepare reports on non-destructive testing results."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16616",
+      "parent": "cluster_0_36",
+      "occupation_id": "17-3029.01",
+      "occupation_title": "Non-Destructive Testing Specialists",
+      "task_statement": "Document non-destructive testing methods, processes, or results."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16977",
+      "parent": "cluster_0_36",
+      "occupation_id": "19-4099.01",
+      "occupation_title": "Quality Control Analysts",
+      "task_statement": "Complete documentation needed to support testing procedures, including data capture forms, equipment logbooks, or inventory forms."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16969",
+      "parent": "cluster_0_36",
+      "occupation_id": "19-4099.01",
+      "occupation_title": "Quality Control Analysts",
+      "task_statement": "Prepare or review required method transfer documentation including technical transfer protocols or reports."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_17",
+      "name": "Robotics"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21057",
+      "parent": "cluster_0_17",
+      "occupation_id": "17-2199.08",
+      "occupation_title": "Robotics Engineers",
+      "task_statement": "Build, configure, or test robots or robotic applications."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16520",
+      "parent": "cluster_0_17",
+      "occupation_id": "17-2199.08",
+      "occupation_title": "Robotics Engineers",
+      "task_statement": "Install, calibrate, operate, or maintain robots."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10902",
+      "parent": "cluster_0_17",
+      "occupation_id": "17-3024.00",
+      "occupation_title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "task_statement": "Develop, test, or program new robots."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16596",
+      "parent": "cluster_0_17",
+      "occupation_id": "17-3024.01",
+      "occupation_title": "Robotics Technicians",
+      "task_statement": "Build or assemble robotic devices or systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10901",
+      "parent": "cluster_0_17",
+      "occupation_id": "17-3024.00",
+      "occupation_title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "task_statement": "Train others to install, use, or maintain robots."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16576",
+      "parent": "cluster_0_17",
+      "occupation_id": "17-3024.01",
+      "occupation_title": "Robotics Technicians",
+      "task_statement": "Train customers or other personnel to install, use, or maintain robots."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16590",
+      "parent": "cluster_0_17",
+      "occupation_id": "17-3024.01",
+      "occupation_title": "Robotics Technicians",
+      "task_statement": "Train robots, using artificial intelligence software or interactive training techniques, to perform simple or complex tasks, such as designing and carrying out a series of iterative tests of chemical samples."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19685",
+      "parent": "cluster_0_17",
+      "occupation_id": "17-3024.01",
+      "occupation_title": "Robotics Technicians",
+      "task_statement": "Operate robots to perform customized tasks, such as environmental cleanup or explosive detection operations."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16511",
+      "parent": "cluster_0_17",
+      "occupation_id": "17-2199.08",
+      "occupation_title": "Robotics Engineers",
+      "task_statement": "Provide technical support for robotic systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16510",
+      "parent": "cluster_0_17",
+      "occupation_id": "17-2199.08",
+      "occupation_title": "Robotics Engineers",
+      "task_statement": "Integrate robotics with peripherals, such as welders, controllers, or other equipment."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16587",
+      "parent": "cluster_0_17",
+      "occupation_id": "17-3024.01",
+      "occupation_title": "Robotics Technicians",
+      "task_statement": "Assist engineers in the design, configuration, or application of robotic systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21059",
+      "parent": "cluster_0_17",
+      "occupation_id": "17-3024.01",
+      "occupation_title": "Robotics Technicians",
+      "task_statement": "Make repairs to robots or peripheral equipment, such as replacement of defective circuit boards, sensors, controllers, encoders, or servomotors."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16593",
+      "parent": "cluster_0_17",
+      "occupation_id": "17-3024.01",
+      "occupation_title": "Robotics Technicians",
+      "task_statement": "Install, program, or repair programmable controllers, robot controllers, end-of-arm tools, or conveyors."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16530",
+      "parent": "cluster_0_17",
+      "occupation_id": "17-2199.08",
+      "occupation_title": "Robotics Engineers",
+      "task_statement": "Design robotic systems, such as automatic vehicle control, autonomous vehicles, advanced displays, advanced sensing, robotic platforms, computer vision, or telematics systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16528",
+      "parent": "cluster_0_17",
+      "occupation_id": "17-2199.08",
+      "occupation_title": "Robotics Engineers",
+      "task_statement": "Design software to control robotic systems for applications, such as military defense or manufacturing."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16589",
+      "parent": "cluster_0_17",
+      "occupation_id": "17-3024.01",
+      "occupation_title": "Robotics Technicians",
+      "task_statement": "Troubleshoot robotic systems, using knowledge of microprocessors, programmable controllers, electronics, circuit analysis, mechanics, sensor or feedback systems, hydraulics, or pneumatics."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16577",
+      "parent": "cluster_0_17",
+      "occupation_id": "17-3024.01",
+      "occupation_title": "Robotics Technicians",
+      "task_statement": "Program complex robotic systems, such as vision systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16523",
+      "parent": "cluster_0_17",
+      "occupation_id": "17-2199.08",
+      "occupation_title": "Robotics Engineers",
+      "task_statement": "Conduct research on robotic technology to create new robotic systems or system capabilities."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16525",
+      "parent": "cluster_0_17",
+      "occupation_id": "17-2199.08",
+      "occupation_title": "Robotics Engineers",
+      "task_statement": "Conduct research into the feasibility, design, operation, or performance of robotic mechanisms, components, or systems, such as planetary rovers, multiple mobile robots, reconfigurable robots, or man-machine interactions."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16527",
+      "parent": "cluster_0_17",
+      "occupation_id": "17-2199.08",
+      "occupation_title": "Robotics Engineers",
+      "task_statement": "Design automated robotic systems to increase production volume or precision in high-throughput operations, such as automated ribonucleic acid (RNA) analysis or sorting, moving, or stacking production materials."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19684",
+      "parent": "cluster_0_17",
+      "occupation_id": "17-3024.01",
+      "occupation_title": "Robotics Technicians",
+      "task_statement": "Evaluate the efficiency and reliability of industrial robotic systems, reprogramming or calibrating to achieve maximum quantity and quality."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_14678",
+      "parent": "cluster_0_17",
+      "occupation_id": "15-1299.08",
+      "occupation_title": "Computer Systems Engineers/Architects",
+      "task_statement": "Perform ongoing hardware and software maintenance operations, including installing or upgrading hardware or software."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16592",
+      "parent": "cluster_0_17",
+      "occupation_id": "17-3024.01",
+      "occupation_title": "Robotics Technicians",
+      "task_statement": "Perform preventive or corrective maintenance on robotic systems or components."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_81",
+      "name": "Specification Verification"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10898",
+      "parent": "cluster_0_81",
+      "occupation_id": "17-3024.00",
+      "occupation_title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "task_statement": "Verify part dimensions or clearances to ensure conformance to specifications, using precision measuring instruments."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11974",
+      "parent": "cluster_0_81",
+      "occupation_id": "51-4032.00",
+      "occupation_title": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Verify conformance of machined work to specifications, using measuring instruments, such as calipers, micrometers, or fixed or telescoping gauges."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10140",
+      "parent": "cluster_0_81",
+      "occupation_id": "51-4033.00",
+      "occupation_title": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Inspect or measure finished workpieces to determine conformance to specifications, using measuring instruments, such as gauges or micrometers."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10145",
+      "parent": "cluster_0_81",
+      "occupation_id": "51-4033.00",
+      "occupation_title": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Measure workpieces and lay out work, using precision measuring devices."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11991",
+      "parent": "cluster_0_81",
+      "occupation_id": "51-4034.00",
+      "occupation_title": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Inspect sample workpieces to verify conformance with specifications, using instruments such as gauges, micrometers, and dial indicators."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20725",
+      "parent": "cluster_0_81",
+      "occupation_id": "17-2011.00",
+      "occupation_title": "Aerospace Engineers",
+      "task_statement": "Evaluate product data or design from inspections or reports for conformance to engineering principles, customer requirements, environmental regulations, or quality standards."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_5346",
+      "parent": "cluster_0_81",
+      "occupation_id": "17-2072.00",
+      "occupation_title": "Electronics Engineers, Except Computer",
+      "task_statement": "Inspect electronic equipment, instruments, products, or systems to ensure conformance to specifications, safety standards, or applicable codes or regulations."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21901",
+      "parent": "cluster_0_81",
+      "occupation_id": "17-2121.00",
+      "occupation_title": "Marine Engineers and Naval Architects",
+      "task_statement": "Investigate and observe tests on machinery and equipment for compliance with standards."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20736",
+      "parent": "cluster_0_81",
+      "occupation_id": "17-2141.00",
+      "occupation_title": "Mechanical Engineers",
+      "task_statement": "Specify system components or direct modification of products to ensure conformance with engineering design, performance specifications, or environmental regulations."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15413",
+      "parent": "cluster_0_81",
+      "occupation_id": "11-3051.01",
+      "occupation_title": "Quality Control Systems Managers",
+      "task_statement": "Verify that raw materials, purchased parts or components, in-process samples, and finished products meet established testing and inspection standards."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18175",
+      "parent": "cluster_0_81",
+      "occupation_id": "17-2112.03",
+      "occupation_title": "Manufacturing Engineers",
+      "task_statement": "Evaluate manufactured products according to specifications and quality standards."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_22008",
+      "parent": "cluster_0_81",
+      "occupation_id": "17-3024.00",
+      "occupation_title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "task_statement": "Consult with machinists to ensure that electromechanical equipment or systems meet design specifications."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_22018",
+      "parent": "cluster_0_81",
+      "occupation_id": "17-3024.00",
+      "occupation_title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "task_statement": "Select electromechanical equipment, materials, components, or systems to meet functional specifications."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_5350",
+      "parent": "cluster_0_81",
+      "occupation_id": "17-2072.00",
+      "occupation_title": "Electronics Engineers, Except Computer",
+      "task_statement": "Develop or perform operational, maintenance, or testing procedures for electronic products, components, equipment, or systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20733",
+      "parent": "cluster_0_81",
+      "occupation_id": "17-2141.00",
+      "occupation_title": "Mechanical Engineers",
+      "task_statement": "Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18127",
+      "parent": "cluster_0_81",
+      "occupation_id": "17-2112.02",
+      "occupation_title": "Validation Engineers",
+      "task_statement": "Conduct validation or qualification tests of new or existing processes, equipment, or software in accordance with internal protocols or external standards."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18130",
+      "parent": "cluster_0_81",
+      "occupation_id": "17-2112.02",
+      "occupation_title": "Validation Engineers",
+      "task_statement": "Prepare validation or performance qualification protocols for new or modified manufacturing processes, systems, or equipment for production of pharmaceuticals, electronics, or other products."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10146",
+      "parent": "cluster_0_81",
+      "occupation_id": "51-4033.00",
+      "occupation_title": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Select machine tooling to be used, using knowledge of machine and production requirements."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10144",
+      "parent": "cluster_0_81",
+      "occupation_id": "51-4033.00",
+      "occupation_title": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Set and adjust machine controls according to product specifications, using knowledge of machine operation."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15430",
+      "parent": "cluster_0_81",
+      "occupation_id": "11-3051.01",
+      "occupation_title": "Quality Control Systems Managers",
+      "task_statement": "Monitor performance of quality control systems to ensure effectiveness and efficiency."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15410",
+      "parent": "cluster_0_81",
+      "occupation_id": "11-3051.01",
+      "occupation_title": "Quality Control Systems Managers",
+      "task_statement": "Coordinate the selection and implementation of quality control equipment, such as inspection gauges."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_22019",
+      "parent": "cluster_0_81",
+      "occupation_id": "17-3024.00",
+      "occupation_title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "task_statement": "Specify, coordinate, or conduct quality-control or quality-assurance programs and procedures."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_3_5",
+      "name": "Electronics (Installation, Use)"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_3558",
+      "parent": "cluster_3_5",
+      "occupation_id": "17-2041.00",
+      "occupation_title": "Chemical Engineers",
+      "task_statement": "Conduct research to develop new and improved chemical manufacturing processes."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20960",
+      "parent": "cluster_3_5",
+      "occupation_id": "17-2112.03",
+      "occupation_title": "Manufacturing Engineers",
+      "task_statement": "Identify opportunities or implement changes to improve manufacturing processes or products or to reduce costs, using knowledge of fabrication processes, tooling and production equipment, assembly methods, quality control standards, or product design, materials and parts."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20961",
+      "parent": "cluster_3_5",
+      "occupation_id": "17-2112.03",
+      "occupation_title": "Manufacturing Engineers",
+      "task_statement": "Incorporate new manufacturing methods or processes to improve existing operations."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18183",
+      "parent": "cluster_3_5",
+      "occupation_id": "17-2112.03",
+      "occupation_title": "Manufacturing Engineers",
+      "task_statement": "Provide technical expertise or support related to manufacturing."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18204",
+      "parent": "cluster_3_5",
+      "occupation_id": "17-2199.07",
+      "occupation_title": "Photonics Engineers",
+      "task_statement": "Oversee or provide expertise on manufacturing, assembly, or fabrication processes."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18170",
+      "parent": "cluster_3_5",
+      "occupation_id": "17-2112.03",
+      "occupation_title": "Manufacturing Engineers",
+      "task_statement": "Communicate manufacturing capabilities, production schedules, or other information to facilitate production processes."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_1423",
+      "parent": "cluster_3_5",
+      "occupation_id": "17-2141.00",
+      "occupation_title": "Mechanical Engineers",
+      "task_statement": "Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_14672",
+      "parent": "cluster_3_5",
+      "occupation_id": "15-1299.08",
+      "occupation_title": "Computer Systems Engineers/Architects",
+      "task_statement": "Provide technical guidance or support for the development or troubleshooting of systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16568",
+      "parent": "cluster_3_5",
+      "occupation_id": "17-2199.11",
+      "occupation_title": "Solar Energy Systems Engineers",
+      "task_statement": "Provide technical direction or support to installation teams during installation, start-up, testing, system commissioning, or performance monitoring."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15520",
+      "parent": "cluster_3_5",
+      "occupation_id": "11-3051.06",
+      "occupation_title": "Hydroelectric Production Managers",
+      "task_statement": "Direct operations, maintenance, or repair of hydroelectric power facilities."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15503",
+      "parent": "cluster_3_5",
+      "occupation_id": "11-3051.06",
+      "occupation_title": "Hydroelectric Production Managers",
+      "task_statement": "Provide technical direction in the erection or commissioning of hydroelectric equipment or supporting electrical or mechanical systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15505",
+      "parent": "cluster_3_5",
+      "occupation_id": "11-3051.06",
+      "occupation_title": "Hydroelectric Production Managers",
+      "task_statement": "Supervise hydropower plant equipment installations, upgrades, or maintenance."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19629",
+      "parent": "cluster_3_5",
+      "occupation_id": "17-2141.00",
+      "occupation_title": "Mechanical Engineers",
+      "task_statement": "Direct the installation, operation, maintenance, or repair of renewable energy equipment, such as heating, ventilating, and air conditioning (HVAC) or water systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19648",
+      "parent": "cluster_3_5",
+      "occupation_id": "17-2199.03",
+      "occupation_title": "Energy Engineers, Except Wind and Solar",
+      "task_statement": "Write or install energy management routines for building automation systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_1348",
+      "parent": "cluster_3_5",
+      "occupation_id": "17-2071.00",
+      "occupation_title": "Electrical Engineers",
+      "task_statement": "Design, implement, maintain, or improve electrical instruments, equipment, facilities, components, products, or systems for commercial, industrial, or domestic purposes."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_22015",
+      "parent": "cluster_3_5",
+      "occupation_id": "17-3024.00",
+      "occupation_title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "task_statement": "Modify, maintain, or repair electrical, electronic, or mechanical components, equipment, or systems to ensure proper functioning."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10894",
+      "parent": "cluster_3_5",
+      "occupation_id": "17-3024.00",
+      "occupation_title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "task_statement": "Install electrical or electronic parts and hardware in housings or assemblies, using soldering equipment and hand tools."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11737",
+      "parent": "cluster_3_5",
+      "occupation_id": "49-2093.00",
+      "occupation_title": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+      "task_statement": "Install electrical equipment such as air-conditioning, heating, or ignition systems and components such as generator brushes and commutators, using hand tools."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_9938",
+      "parent": "cluster_3_5",
+      "occupation_id": "49-2091.00",
+      "occupation_title": "Avionics Technicians",
+      "task_statement": "Install electrical and electronic components, assemblies, and systems in aircraft, using hand tools, power tools, or soldering irons."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_9940",
+      "parent": "cluster_3_5",
+      "occupation_id": "49-2091.00",
+      "occupation_title": "Avionics Technicians",
+      "task_statement": "Connect components to assemblies such as radio systems, instruments, magnetos, inverters, and in-flight refueling systems, using hand tools and soldering irons."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_126",
+      "name": "Wind Turbines"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16559",
+      "parent": "cluster_0_126",
+      "occupation_id": "17-2199.10",
+      "occupation_title": "Wind Energy Engineers",
+      "task_statement": "Create or maintain wind farm layouts, schematics, or other visual documentation for wind farms."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16560",
+      "parent": "cluster_0_126",
+      "occupation_id": "17-2199.10",
+      "occupation_title": "Wind Energy Engineers",
+      "task_statement": "Create models to optimize the layout of wind farm access roads, crane pads, crane paths, collection systems, substations, switchyards, or transmission lines."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16550",
+      "parent": "cluster_0_126",
+      "occupation_id": "17-2199.10",
+      "occupation_title": "Wind Energy Engineers",
+      "task_statement": "Investigate experimental wind turbines or wind turbine technologies for properties such as aerodynamics, production, noise, and load."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16552",
+      "parent": "cluster_0_126",
+      "occupation_id": "17-2199.10",
+      "occupation_title": "Wind Energy Engineers",
+      "task_statement": "Test wind turbine components, using mechanical or electronic testing equipment."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16551",
+      "parent": "cluster_0_126",
+      "occupation_id": "17-2199.10",
+      "occupation_title": "Wind Energy Engineers",
+      "task_statement": "Test wind turbine equipment to determine effects of stress or fatigue."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_17811",
+      "parent": "cluster_0_126",
+      "occupation_id": "49-9081.00",
+      "occupation_title": "Wind Turbine Service Technicians",
+      "task_statement": "Test electrical components of wind systems with devices, such as voltage testers, multimeters, oscilloscopes, infrared testers, or fiber optic equipment."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16553",
+      "parent": "cluster_0_126",
+      "occupation_id": "17-2199.10",
+      "occupation_title": "Wind Energy Engineers",
+      "task_statement": "Provide engineering technical support to designers of prototype wind turbines."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_17816",
+      "parent": "cluster_0_126",
+      "occupation_id": "49-9081.00",
+      "occupation_title": "Wind Turbine Service Technicians",
+      "task_statement": "Operate manufacturing equipment to fabricate wind turbines."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_17807",
+      "parent": "cluster_0_126",
+      "occupation_id": "49-9081.00",
+      "occupation_title": "Wind Turbine Service Technicians",
+      "task_statement": "Climb wind turbine towers to inspect, maintain, or repair equipment."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_17805",
+      "parent": "cluster_0_126",
+      "occupation_id": "49-9081.00",
+      "occupation_title": "Wind Turbine Service Technicians",
+      "task_statement": "Inspect or repair fiberglass turbine blades."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15823",
+      "parent": "cluster_0_126",
+      "occupation_id": "11-9199.09",
+      "occupation_title": "Wind Energy Operations Managers",
+      "task_statement": "Oversee the maintenance of wind field equipment or structures, such as towers, transformers, electrical collector systems, roadways, or other site assets."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_17809",
+      "parent": "cluster_0_126",
+      "occupation_id": "49-9081.00",
+      "occupation_title": "Wind Turbine Service Technicians",
+      "task_statement": "Perform routine maintenance on wind turbine equipment, underground transmission systems, wind fields substations, or fiber optic sensing and control systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16555",
+      "parent": "cluster_0_126",
+      "occupation_id": "17-2199.10",
+      "occupation_title": "Wind Energy Engineers",
+      "task_statement": "Monitor wind farm construction to ensure compliance with regulatory standards or environmental requirements."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16562",
+      "parent": "cluster_0_126",
+      "occupation_id": "17-2199.10",
+      "occupation_title": "Wind Energy Engineers",
+      "task_statement": "Analyze operation of wind farms or wind farm components to determine reliability, performance, and compliance with specifications."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15820",
+      "parent": "cluster_0_126",
+      "occupation_id": "11-9199.09",
+      "occupation_title": "Wind Energy Operations Managers",
+      "task_statement": "Develop processes or procedures for wind operations, including transitioning from construction to commercial operations."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_17810",
+      "parent": "cluster_0_126",
+      "occupation_id": "49-9081.00",
+      "occupation_title": "Wind Turbine Service Technicians",
+      "task_statement": "Start or restart wind turbine generator systems to ensure proper operations."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16554",
+      "parent": "cluster_0_126",
+      "occupation_id": "17-2199.10",
+      "occupation_title": "Wind Energy Engineers",
+      "task_statement": "Perform root cause analysis on wind turbine tower component failures."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_17808",
+      "parent": "cluster_0_126",
+      "occupation_id": "49-9081.00",
+      "occupation_title": "Wind Turbine Service Technicians",
+      "task_statement": "Diagnose problems involving wind turbine generators or control systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20859",
+      "parent": "cluster_0_126",
+      "occupation_id": "17-2199.03",
+      "occupation_title": "Energy Engineers, Except Wind and Solar",
+      "task_statement": "Collect data for energy conservation analyses, using jobsite observation, field inspections, or sub-metering."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_17814",
+      "parent": "cluster_0_126",
+      "occupation_id": "49-9081.00",
+      "occupation_title": "Wind Turbine Service Technicians",
+      "task_statement": "Collect turbine data for testing or research and analysis."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_8",
+      "name": "Equipment Troubleshooting"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20734",
+      "parent": "cluster_0_8",
+      "occupation_id": "17-2141.00",
+      "occupation_title": "Mechanical Engineers",
+      "task_statement": "Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16519",
+      "parent": "cluster_0_8",
+      "occupation_id": "17-2199.08",
+      "occupation_title": "Robotics Engineers",
+      "task_statement": "Investigate mechanical failures or unexpected maintenance problems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16959",
+      "parent": "cluster_0_8",
+      "occupation_id": "19-4099.01",
+      "occupation_title": "Quality Control Analysts",
+      "task_statement": "Identify and troubleshoot equipment problems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_17806",
+      "parent": "cluster_0_8",
+      "occupation_id": "49-9081.00",
+      "occupation_title": "Wind Turbine Service Technicians",
+      "task_statement": "Troubleshoot or repair mechanical, hydraulic, or electrical malfunctions related to variable pitch systems, variable speed control systems, converter systems, or related components."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10675",
+      "parent": "cluster_0_8",
+      "occupation_id": "53-4013.00",
+      "occupation_title": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+      "task_statement": "Inspect track for defects such as broken rails and switch malfunctions."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_14675",
+      "parent": "cluster_0_8",
+      "occupation_id": "15-1299.08",
+      "occupation_title": "Computer Systems Engineers/Architects",
+      "task_statement": "Monitor system operation to detect potential problems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10143",
+      "parent": "cluster_0_8",
+      "occupation_id": "51-4033.00",
+      "occupation_title": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Observe machine operations to detect any problems, making necessary adjustments to correct problems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20452",
+      "parent": "cluster_0_8",
+      "occupation_id": "47-5013.00",
+      "occupation_title": "Service Unit Operators, Oil and Gas",
+      "task_statement": "Listen to engines, rotary chains, or other equipment to detect faulty operations or unusual well conditions."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11984",
+      "parent": "cluster_0_8",
+      "occupation_id": "51-4032.00",
+      "occupation_title": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Observe drilling or boring machine operations to detect any problems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11728",
+      "parent": "cluster_0_8",
+      "occupation_id": "49-2093.00",
+      "occupation_title": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+      "task_statement": "Reassemble and test equipment after repairs."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_13749",
+      "parent": "cluster_0_8",
+      "occupation_id": "49-3041.00",
+      "occupation_title": "Farm Equipment Mechanics and Service Technicians",
+      "task_statement": "Reassemble machines and equipment following repair, testing operation and making adjustments, as necessary."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_13645",
+      "parent": "cluster_0_8",
+      "occupation_id": "47-4061.00",
+      "occupation_title": "Rail-Track Laying and Maintenance Equipment Operators",
+      "task_statement": "Repair or adjust track switches, using wrenches and replacement parts."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11746",
+      "parent": "cluster_0_8",
+      "occupation_id": "49-2095.00",
+      "occupation_title": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+      "task_statement": "Open and close switches to isolate defective relays, performing adjustments or repairs."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11732",
+      "parent": "cluster_0_8",
+      "occupation_id": "49-2093.00",
+      "occupation_title": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+      "task_statement": "Adjust, repair, or replace defective wiring and relays in ignition, lighting, air-conditioning, and safety control systems, using electrician's tools."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11739",
+      "parent": "cluster_0_8",
+      "occupation_id": "49-2093.00",
+      "occupation_title": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+      "task_statement": "Repair or rebuild equipment such as starters, generators, distributors, or door controls, using electrician's tools."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_109",
+      "name": "Employee Training"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_14690",
+      "parent": "cluster_0_109",
+      "occupation_id": "15-1299.08",
+      "occupation_title": "Computer Systems Engineers/Architects",
+      "task_statement": "Train system users in system operation or maintenance."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18206",
+      "parent": "cluster_0_109",
+      "occupation_id": "17-2199.07",
+      "occupation_title": "Photonics Engineers",
+      "task_statement": "Train operators, engineers, or other personnel."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_1355",
+      "parent": "cluster_0_109",
+      "occupation_id": "17-2071.00",
+      "occupation_title": "Electrical Engineers",
+      "task_statement": "Supervise or train project team members, as necessary."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21888",
+      "parent": "cluster_0_109",
+      "occupation_id": "17-2121.00",
+      "occupation_title": "Marine Engineers and Naval Architects",
+      "task_statement": "Supervise other engineers and crew members and train them for routine and emergency duties."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_9897",
+      "parent": "cluster_0_109",
+      "occupation_id": "47-5011.00",
+      "occupation_title": "Derrick Operators, Oil and Gas",
+      "task_statement": "Supervise crew members, and provide assistance in training them."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18185",
+      "parent": "cluster_0_109",
+      "occupation_id": "17-2112.03",
+      "occupation_title": "Manufacturing Engineers",
+      "task_statement": "Supervise technicians, technologists, analysts, administrative staff, or other engineers."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16509",
+      "parent": "cluster_0_109",
+      "occupation_id": "17-2199.08",
+      "occupation_title": "Robotics Engineers",
+      "task_statement": "Supervise technologists, technicians, or other engineers."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20739",
+      "parent": "cluster_0_109",
+      "occupation_id": "17-2141.00",
+      "occupation_title": "Mechanical Engineers",
+      "task_statement": "Perform personnel functions, such as supervision of production workers, technicians, technologists, or other engineers."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_9936",
+      "parent": "cluster_0_109",
+      "occupation_id": "49-2091.00",
+      "occupation_title": "Avionics Technicians",
+      "task_statement": "Coordinate work with that of engineers, technicians, and other aircraft maintenance personnel."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15808",
+      "parent": "cluster_0_109",
+      "occupation_id": "11-9199.09",
+      "occupation_title": "Wind Energy Operations Managers",
+      "task_statement": "Train or coordinate the training of employees in operations, safety, environmental issues, or technical issues."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21863",
+      "parent": "cluster_0_109",
+      "occupation_id": "17-2111.00",
+      "occupation_title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "task_statement": "Conduct or coordinate worker training in areas such as safety laws and regulations, hazardous condition monitoring, and use of safety equipment."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20489",
+      "parent": "cluster_0_109",
+      "occupation_id": "17-2051.00",
+      "occupation_title": "Civil Engineers",
+      "task_statement": "Provide technical advice to industrial or managerial personnel regarding design, construction, program modifications, or structural repairs."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16327",
+      "parent": "cluster_0_109",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Provide technical direction or supervision to junior engineers, engineering or computer-aided design (CAD) technicians, or other technical personnel."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15822",
+      "parent": "cluster_0_109",
+      "occupation_id": "11-9199.09",
+      "occupation_title": "Wind Energy Operations Managers",
+      "task_statement": "Supervise employees or subcontractors to ensure quality of work or adherence to safety regulations or policies."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21874",
+      "parent": "cluster_0_109",
+      "occupation_id": "17-2111.00",
+      "occupation_title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "task_statement": "Review employee safety programs to determine their adequacy."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_123",
+      "name": "Health and Safety"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21876",
+      "parent": "cluster_0_123",
+      "occupation_id": "17-2111.00",
+      "occupation_title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "task_statement": "Provide technical advice and guidance to organizations on how to handle health-related problems and make needed changes."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21882",
+      "parent": "cluster_0_123",
+      "occupation_id": "17-2111.00",
+      "occupation_title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "task_statement": "Confer with medical professionals to assess health risks and to develop ways to manage health issues and concerns."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21860",
+      "parent": "cluster_0_123",
+      "occupation_id": "17-2111.00",
+      "occupation_title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "task_statement": "Investigate industrial accidents, injuries, or occupational diseases to determine causes and preventive measures."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21880",
+      "parent": "cluster_0_123",
+      "occupation_id": "17-2111.00",
+      "occupation_title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "task_statement": "Compile, analyze, and interpret statistical data related to occupational illnesses and accidents."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_5379",
+      "parent": "cluster_0_123",
+      "occupation_id": "17-2161.00",
+      "occupation_title": "Nuclear Engineers",
+      "task_statement": "Examine accidents to obtain data for use in design of preventive measures."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21865",
+      "parent": "cluster_0_123",
+      "occupation_id": "17-2111.00",
+      "occupation_title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "task_statement": "Recommend procedures for detection, prevention, and elimination of physical, chemical, or other product hazards."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21867",
+      "parent": "cluster_0_123",
+      "occupation_id": "17-2111.00",
+      "occupation_title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "task_statement": "Evaluate potential health hazards or damage that could occur from product misuse."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21861",
+      "parent": "cluster_0_123",
+      "occupation_id": "17-2111.00",
+      "occupation_title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "task_statement": "Conduct research to evaluate safety levels for products."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21862",
+      "parent": "cluster_0_123",
+      "occupation_id": "17-2111.00",
+      "occupation_title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "task_statement": "Evaluate product designs for safety."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21877",
+      "parent": "cluster_0_123",
+      "occupation_id": "17-2111.00",
+      "occupation_title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "task_statement": "Develop industry standards of product safety."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21883",
+      "parent": "cluster_0_123",
+      "occupation_id": "17-2111.00",
+      "occupation_title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "task_statement": "Design and build safety equipment."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21885",
+      "parent": "cluster_0_123",
+      "occupation_id": "17-2111.00",
+      "occupation_title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "task_statement": "Inspect facilities, machinery, or safety equipment to identify and correct potential hazards, and to ensure safety regulation compliance."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20451",
+      "parent": "cluster_0_123",
+      "occupation_id": "47-5013.00",
+      "occupation_title": "Service Unit Operators, Oil and Gas",
+      "task_statement": "Maintain and perform safety inspections on equipment and tools."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21869",
+      "parent": "cluster_0_123",
+      "occupation_id": "17-2111.00",
+      "occupation_title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "task_statement": "Interpret safety regulations for others interested in industrial safety, such as safety engineers, labor representatives, and safety inspectors."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21881",
+      "parent": "cluster_0_123",
+      "occupation_id": "17-2111.00",
+      "occupation_title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "task_statement": "Write and revise safety regulations and codes."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_116",
+      "name": "Water"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_9892",
+      "parent": "cluster_0_116",
+      "occupation_id": "47-5011.00",
+      "occupation_title": "Derrick Operators, Oil and Gas",
+      "task_statement": "Repair pumps, mud tanks, and related equipment."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_9895",
+      "parent": "cluster_0_116",
+      "occupation_id": "47-5011.00",
+      "occupation_title": "Derrick Operators, Oil and Gas",
+      "task_statement": "Start pumps that circulate mud through drill pipes and boreholes to cool drill bits and flush out drill cuttings."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_9901",
+      "parent": "cluster_0_116",
+      "occupation_id": "47-5011.00",
+      "occupation_title": "Derrick Operators, Oil and Gas",
+      "task_statement": "Weigh clay, and mix with water and chemicals to make drilling mud, using portable mixers."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_7078",
+      "parent": "cluster_0_116",
+      "occupation_id": "47-5013.00",
+      "occupation_title": "Service Unit Operators, Oil and Gas",
+      "task_statement": "Operate pumps that circulate water, oil, or other fluids through wells to remove sand or other materials obstructing the free flow of oil."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_13646",
+      "parent": "cluster_0_116",
+      "occupation_id": "47-4061.00",
+      "occupation_title": "Rail-Track Laying and Maintenance Equipment Operators",
+      "task_statement": "Lubricate machines, change oil, or fill hydraulic reservoirs to specified levels."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20923",
+      "parent": "cluster_0_116",
+      "occupation_id": "51-4034.00",
+      "occupation_title": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Refill, change, and monitor the level of fluids, such as oil and coolant, in machines."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11981",
+      "parent": "cluster_0_116",
+      "occupation_id": "51-4032.00",
+      "occupation_title": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Turn valves and direct flow of coolants or cutting oil over cutting areas."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10151",
+      "parent": "cluster_0_116",
+      "occupation_id": "51-4033.00",
+      "occupation_title": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Brush or spray lubricating compounds on workpieces, or turn valve handles and direct flow of coolant against tools and workpieces."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_12004",
+      "parent": "cluster_0_116",
+      "occupation_id": "51-4034.00",
+      "occupation_title": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "task_statement": "Turn valve handles to direct the flow of coolant onto work areas or to coat disks with spinning compounds."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16346",
+      "parent": "cluster_0_116",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Design water or wastewater lift stations, including water wells."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16344",
+      "parent": "cluster_0_116",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Design water storage tanks or other water storage facilities."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_9894",
+      "parent": "cluster_0_116",
+      "occupation_id": "47-5011.00",
+      "occupation_title": "Derrick Operators, Oil and Gas",
+      "task_statement": "Listen to mud pumps and check regularly for vibration and other problems to ensure that rig pumps and drilling mud systems are working properly."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_12750",
+      "parent": "cluster_0_116",
+      "occupation_id": "53-4011.00",
+      "occupation_title": "Locomotive Engineers",
+      "task_statement": "Monitor gauges or meters that measure speed, amperage, battery charge, or air pressure in brake lines or in main reservoirs."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10673",
+      "parent": "cluster_0_116",
+      "occupation_id": "53-4013.00",
+      "occupation_title": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+      "task_statement": "Observe water levels and oil, air, and steam pressure gauges to ensure proper operation of equipment."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_131",
+      "name": "Rail"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_12754",
+      "parent": "cluster_0_131",
+      "occupation_id": "53-4011.00",
+      "occupation_title": "Locomotive Engineers",
+      "task_statement": "Confer with conductors or traffic control center personnel via radiophones to issue or receive information concerning stops, delays, or oncoming trains."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10665",
+      "parent": "cluster_0_131",
+      "occupation_id": "53-4013.00",
+      "occupation_title": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+      "task_statement": "Confer with conductors and other workers via radiotelephones or computers to exchange switching information."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10678",
+      "parent": "cluster_0_131",
+      "occupation_id": "53-4013.00",
+      "occupation_title": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+      "task_statement": "Receive, relay, and act upon instructions and inquiries from train operations and customer service center personnel."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10667",
+      "parent": "cluster_0_131",
+      "occupation_id": "53-4013.00",
+      "occupation_title": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+      "task_statement": "Observe and respond to wayside and cab signals, including color light signals, position signals, torpedoes, flags, and hot box detectors."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10666",
+      "parent": "cluster_0_131",
+      "occupation_id": "53-4013.00",
+      "occupation_title": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+      "task_statement": "Signal crew members for movement of engines or trains, using lanterns, hand signals, radios, or telephones."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_12753",
+      "parent": "cluster_0_131",
+      "occupation_id": "53-4011.00",
+      "occupation_title": "Locomotive Engineers",
+      "task_statement": "Receive starting signals from conductors and use controls such as throttles or air brakes to drive electric, diesel-electric, steam, or gas turbine-electric locomotives."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10677",
+      "parent": "cluster_0_131",
+      "occupation_id": "53-4013.00",
+      "occupation_title": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+      "task_statement": "Operate track switches, derails, automatic switches, and retarders to change routing of train or cars."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10689",
+      "parent": "cluster_0_131",
+      "occupation_id": "53-4013.00",
+      "occupation_title": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+      "task_statement": "Operate switching diesel engines to switch railroad cars, using remote controls."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_12759",
+      "parent": "cluster_0_131",
+      "occupation_id": "53-4011.00",
+      "occupation_title": "Locomotive Engineers",
+      "task_statement": "Inspect locomotives to verify adequate fuel, sand, water, or other supplies before each run or to check for mechanical problems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_12762",
+      "parent": "cluster_0_131",
+      "occupation_id": "53-4011.00",
+      "occupation_title": "Locomotive Engineers",
+      "task_statement": "Inspect locomotives after runs to detect damaged or defective equipment."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10669",
+      "parent": "cluster_0_131",
+      "occupation_id": "53-4013.00",
+      "occupation_title": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+      "task_statement": "Inspect engines before and after use to ensure proper operation."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_108",
+      "name": "Laboratory Testing"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15412",
+      "parent": "cluster_0_108",
+      "occupation_id": "11-3051.01",
+      "occupation_title": "Quality Control Systems Managers",
+      "task_statement": "Audit and inspect subcontractor facilities including external laboratories."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16963",
+      "parent": "cluster_0_108",
+      "occupation_id": "19-4099.01",
+      "occupation_title": "Quality Control Analysts",
+      "task_statement": "Coordinate testing with contract laboratories and vendors."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21054",
+      "parent": "cluster_0_108",
+      "occupation_id": "17-2112.02",
+      "occupation_title": "Validation Engineers",
+      "task_statement": "Devise automated lab validation test stations or other test fixtures or equipment."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16978",
+      "parent": "cluster_0_108",
+      "occupation_id": "19-4099.01",
+      "occupation_title": "Quality Control Analysts",
+      "task_statement": "Calibrate, validate, or maintain laboratory equipment."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18144",
+      "parent": "cluster_0_108",
+      "occupation_id": "17-2112.02",
+      "occupation_title": "Validation Engineers",
+      "task_statement": "Maintain validation test equipment."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18141",
+      "parent": "cluster_0_108",
+      "occupation_id": "17-2112.02",
+      "occupation_title": "Validation Engineers",
+      "task_statement": "Assist in training equipment operators or other staff on validation protocols and standard operating procedures."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16524",
+      "parent": "cluster_0_108",
+      "occupation_id": "17-2199.08",
+      "occupation_title": "Robotics Engineers",
+      "task_statement": "Automate assays on laboratory robotics."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16581",
+      "parent": "cluster_0_108",
+      "occupation_id": "17-3024.01",
+      "occupation_title": "Robotics Technicians",
+      "task_statement": "Document robotics test procedures and results."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_3556",
+      "parent": "cluster_0_108",
+      "occupation_id": "17-2041.00",
+      "occupation_title": "Chemical Engineers",
+      "task_statement": "Perform laboratory studies of steps in manufacture of new products and test proposed processes in small-scale operation, such as a pilot plant."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_3559",
+      "parent": "cluster_0_108",
+      "occupation_id": "17-2041.00",
+      "occupation_title": "Chemical Engineers",
+      "task_statement": "Design measurement and control systems for chemical plants based on data collected in laboratory experiments and in pilot plant operations."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_121",
+      "name": "Sustainability Auditing"
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20004",
+      "parent": "cluster_0_121",
+      "occupation_id": "13-1081.01",
+      "occupation_title": "Logistics Engineers",
+      "task_statement": "Review global, national, or regional transportation or logistics reports for ways to improve efficiency or minimize the environmental impact of logistics activities."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20002",
+      "parent": "cluster_0_121",
+      "occupation_id": "13-1081.01",
+      "occupation_title": "Logistics Engineers",
+      "task_statement": "Conduct environmental audits for logistics activities, such as storage, distribution, or transportation."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20008",
+      "parent": "cluster_0_121",
+      "occupation_id": "13-1081.01",
+      "occupation_title": "Logistics Engineers",
+      "task_statement": "Assess the environmental impact or energy efficiency of logistics activities, using carbon mitigation software."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20855",
+      "parent": "cluster_0_121",
+      "occupation_id": "17-2199.03",
+      "occupation_title": "Energy Engineers, Except Wind and Solar",
+      "task_statement": "Conduct energy audits to evaluate energy use and to identify conservation and cost reduction measures."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18156",
+      "parent": "cluster_0_121",
+      "occupation_id": "17-2199.03",
+      "occupation_title": "Energy Engineers, Except Wind and Solar",
+      "task_statement": "Monitor and analyze energy consumption."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18150",
+      "parent": "cluster_0_121",
+      "occupation_id": "17-2199.03",
+      "occupation_title": "Energy Engineers, Except Wind and Solar",
+      "task_statement": "Inspect or monitor energy systems, including heating, ventilating, and air conditioning (HVAC) or daylighting systems to determine energy use or potential energy savings."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20860",
+      "parent": "cluster_0_121",
+      "occupation_id": "17-2199.03",
+      "occupation_title": "Energy Engineers, Except Wind and Solar",
+      "task_statement": "Review architectural, mechanical, or electrical plans or specifications to evaluate energy efficiency."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19647",
+      "parent": "cluster_0_121",
+      "occupation_id": "17-2112.02",
+      "occupation_title": "Validation Engineers",
+      "task_statement": "Validate or characterize sustainable or environmentally friendly products, using electronic testing platforms."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19646",
+      "parent": "cluster_0_121",
+      "occupation_id": "17-2112.02",
+      "occupation_title": "Validation Engineers",
+      "task_statement": "Plan or conduct validation testing of alternative energy products, such as synthetic jet fuels or energy storage systems, such as fuel cells."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_122",
+      "name": ""
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_14688",
+      "parent": "cluster_0_122",
+      "occupation_id": "15-1299.08",
+      "occupation_title": "Computer Systems Engineers/Architects",
+      "task_statement": "Complete models and simulations, using manual or automated tools, to analyze or predict system performance under different operating conditions."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16582",
+      "parent": "cluster_0_122",
+      "occupation_id": "17-3024.01",
+      "occupation_title": "Robotics Technicians",
+      "task_statement": "Develop three-dimensional simulations of automation systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_5326",
+      "parent": "cluster_0_122",
+      "occupation_id": "17-2021.00",
+      "occupation_title": "Agricultural Engineers",
+      "task_statement": "Design agricultural machinery components and equipment, using computer-aided design (CAD) technology."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16572",
+      "parent": "cluster_0_122",
+      "occupation_id": "17-2199.11",
+      "occupation_title": "Solar Energy Systems Engineers",
+      "task_statement": "Create electrical single-line diagrams, panel schedules, or connection diagrams for solar electric systems, using computer-aided design (CAD) software."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_22016",
+      "parent": "cluster_0_122",
+      "occupation_id": "17-3024.00",
+      "occupation_title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "task_statement": "Produce electrical, electronic, or mechanical drawings or other related documents or graphics necessary for electromechanical design, using computer-aided design (CAD) software."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_1349",
+      "parent": "cluster_0_122",
+      "occupation_id": "17-2071.00",
+      "occupation_title": "Electrical Engineers",
+      "task_statement": "Operate computer-assisted engineering or design software or equipment to perform engineering tasks."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20497",
+      "parent": "cluster_0_122",
+      "occupation_id": "17-2072.00",
+      "occupation_title": "Electronics Engineers, Except Computer",
+      "task_statement": "Operate computer-assisted engineering or design software or equipment to perform electronics engineering tasks."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_14689",
+      "parent": "cluster_0_122",
+      "occupation_id": "15-1299.08",
+      "occupation_title": "Computer Systems Engineers/Architects",
+      "task_statement": "Direct the installation of operating systems, network or application software, or computer or network hardware."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_22014",
+      "parent": "cluster_0_122",
+      "occupation_id": "17-3024.00",
+      "occupation_title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "task_statement": "Install or program computer hardware or machine or instrumentation software in microprocessor-based systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_53",
+      "name": ""
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_5389",
+      "parent": "cluster_0_53",
+      "occupation_id": "17-2161.00",
+      "occupation_title": "Nuclear Engineers",
+      "task_statement": "Direct operating or maintenance activities of nuclear power plants to ensure efficiency and conformity to safety standards."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19642",
+      "parent": "cluster_0_53",
+      "occupation_id": "17-2161.00",
+      "occupation_title": "Nuclear Engineers",
+      "task_statement": "Direct environmental compliance activities associated with nuclear plant operations or maintenance."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_5383",
+      "parent": "cluster_0_53",
+      "occupation_id": "17-2161.00",
+      "occupation_title": "Nuclear Engineers",
+      "task_statement": "Design or oversee construction or operation of nuclear reactors, power plants, or nuclear fuels reprocessing and reclamation systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19610",
+      "parent": "cluster_0_53",
+      "occupation_id": "17-2051.00",
+      "occupation_title": "Civil Engineers",
+      "task_statement": "Direct engineering activities, ensuring compliance with environmental, safety, or other governmental regulations."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18151",
+      "parent": "cluster_0_53",
+      "occupation_id": "17-2199.03",
+      "occupation_title": "Energy Engineers, Except Wind and Solar",
+      "task_statement": "Manage the development, design, or construction of energy conservation projects to ensure acceptability of budgets and time lines, conformance to federal and state laws, or adherence to approved specifications."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20862",
+      "parent": "cluster_0_53",
+      "occupation_id": "17-2199.03",
+      "occupation_title": "Energy Engineers, Except Wind and Solar",
+      "task_statement": "Direct the implementation of energy management projects."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15504",
+      "parent": "cluster_0_53",
+      "occupation_id": "11-3051.06",
+      "occupation_title": "Hydroelectric Production Managers",
+      "task_statement": "Develop or implement projects to improve efficiency, economy, or effectiveness of hydroelectric plant operations."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15507",
+      "parent": "cluster_0_53",
+      "occupation_id": "11-3051.06",
+      "occupation_title": "Hydroelectric Production Managers",
+      "task_statement": "Plan or manage hydroelectric plant upgrades."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_115",
+      "name": ""
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_12755",
+      "parent": "cluster_0_115",
+      "occupation_id": "53-4011.00",
+      "occupation_title": "Locomotive Engineers",
+      "task_statement": "Operate locomotives to transport freight or passengers between stations or to assemble or disassemble trains within rail yards."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_12763",
+      "parent": "cluster_0_115",
+      "occupation_id": "53-4011.00",
+      "occupation_title": "Locomotive Engineers",
+      "task_statement": "Drive diesel-electric rail-detector cars to transport rail-flaw-detecting machines over tracks."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10668",
+      "parent": "cluster_0_115",
+      "occupation_id": "53-4013.00",
+      "occupation_title": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+      "task_statement": "Drive engines within railroad yards or other establishments to couple, uncouple, or switch railroad cars."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_10683",
+      "parent": "cluster_0_115",
+      "occupation_id": "53-4013.00",
+      "occupation_title": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+      "task_statement": "Drive locomotives to and from various stations in roundhouses to have locomotives cleaned, serviced, repaired, or supplied."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_7075",
+      "parent": "cluster_0_115",
+      "occupation_id": "47-5013.00",
+      "occupation_title": "Service Unit Operators, Oil and Gas",
+      "task_statement": "Drive truck-mounted units to well sites."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_13757",
+      "parent": "cluster_0_115",
+      "occupation_id": "49-3041.00",
+      "occupation_title": "Farm Equipment Mechanics and Service Technicians",
+      "task_statement": "Drive trucks to haul tools and equipment for on-site repair of large machinery."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_58",
+      "name": ""
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18200",
+      "parent": "cluster_0_58",
+      "occupation_id": "17-2199.07",
+      "occupation_title": "Photonics Engineers",
+      "task_statement": "Develop optical or imaging systems, such as optical imaging products, optical components, image processes, signal process technologies, or optical systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18189",
+      "parent": "cluster_0_58",
+      "occupation_id": "17-2199.07",
+      "occupation_title": "Photonics Engineers",
+      "task_statement": "Design electro-optical sensing or imaging systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18197",
+      "parent": "cluster_0_58",
+      "occupation_id": "17-2199.07",
+      "occupation_title": "Photonics Engineers",
+      "task_statement": "Design gas lasers, solid state lasers, infrared, or other light emitting or light sensitive devices."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18191",
+      "parent": "cluster_0_58",
+      "occupation_id": "17-2199.07",
+      "occupation_title": "Photonics Engineers",
+      "task_statement": "Develop laser-processed designs, such as laser-cut medical devices."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18190",
+      "parent": "cluster_0_58",
+      "occupation_id": "17-2199.07",
+      "occupation_title": "Photonics Engineers",
+      "task_statement": "Design laser machining equipment for purposes such as high-speed ablation."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18187",
+      "parent": "cluster_0_58",
+      "occupation_id": "17-2199.07",
+      "occupation_title": "Photonics Engineers",
+      "task_statement": "Select, purchase, set up, operate, or troubleshoot state-of-the-art laser cutting equipment."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_52",
+      "name": ""
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15513",
+      "parent": "cluster_0_52",
+      "occupation_id": "11-3051.06",
+      "occupation_title": "Hydroelectric Production Managers",
+      "task_statement": "Monitor or inspect hydroelectric equipment, such as hydro-turbines, generators, or control systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15514",
+      "parent": "cluster_0_52",
+      "occupation_id": "11-3051.06",
+      "occupation_title": "Hydroelectric Production Managers",
+      "task_statement": "Inspect hydroelectric facilities, including switchyards, control houses, or relay houses, for normal operation or adherence to safety standards."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15519",
+      "parent": "cluster_0_52",
+      "occupation_id": "11-3051.06",
+      "occupation_title": "Hydroelectric Production Managers",
+      "task_statement": "Supervise or monitor hydroelectric facility operations to ensure that generation or mechanical equipment conform to applicable regulations or standards."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15518",
+      "parent": "cluster_0_52",
+      "occupation_id": "11-3051.06",
+      "occupation_title": "Hydroelectric Production Managers",
+      "task_statement": "Check hydroelectric operations for compliance with prescribed operating limits, such as loads, voltages, temperatures, lines, or equipment."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15510",
+      "parent": "cluster_0_52",
+      "occupation_id": "11-3051.06",
+      "occupation_title": "Hydroelectric Production Managers",
+      "task_statement": "Operate energized high- or low-voltage hydroelectric power transmission system substations, according to procedures and safety requirements."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_92",
+      "name": ""
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21904",
+      "parent": "cluster_0_92",
+      "occupation_id": "17-2121.00",
+      "occupation_title": "Marine Engineers and Naval Architects",
+      "task_statement": "Design and oversee testing, installation, and repair of marine apparatus and equipment."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21906",
+      "parent": "cluster_0_92",
+      "occupation_id": "17-2121.00",
+      "occupation_title": "Marine Engineers and Naval Architects",
+      "task_statement": "Procure materials needed to repair marine equipment and machinery."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21908",
+      "parent": "cluster_0_92",
+      "occupation_id": "17-2121.00",
+      "occupation_title": "Marine Engineers and Naval Architects",
+      "task_statement": "Maintain and coordinate repair of marine machinery and equipment for installation on vessels."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21896",
+      "parent": "cluster_0_92",
+      "occupation_id": "17-2121.00",
+      "occupation_title": "Marine Engineers and Naval Architects",
+      "task_statement": "Evaluate operation of marine equipment during acceptance testing and shakedown cruises."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21898",
+      "parent": "cluster_0_92",
+      "occupation_id": "17-2121.00",
+      "occupation_title": "Marine Engineers and Naval Architects",
+      "task_statement": "Conduct environmental, operational, or performance tests on marine machinery and equipment."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_49",
+      "name": ""
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15817",
+      "parent": "cluster_0_49",
+      "occupation_id": "11-9199.09",
+      "occupation_title": "Wind Energy Operations Managers",
+      "task_statement": "Estimate costs associated with operations, including repairs or preventive maintenance."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_11741",
+      "parent": "cluster_0_49",
+      "occupation_id": "49-2093.00",
+      "occupation_title": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+      "task_statement": "Estimate costs of repairs based on parts and labor requirements."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20729",
+      "parent": "cluster_0_49",
+      "occupation_id": "17-2071.00",
+      "occupation_title": "Electrical Engineers",
+      "task_statement": "Estimate labor, material, or construction costs for budget preparation purposes."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20500",
+      "parent": "cluster_0_49",
+      "occupation_id": "17-2072.00",
+      "occupation_title": "Electronics Engineers, Except Computer",
+      "task_statement": "Prepare budget or cost estimates for equipment, construction, or installation projects or control expenditures."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_85",
+      "name": ""
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19622",
+      "parent": "cluster_0_85",
+      "occupation_id": "17-2072.00",
+      "occupation_title": "Electronics Engineers, Except Computer",
+      "task_statement": "Research or develop electronics technologies for use in electric-drive vehicles."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19623",
+      "parent": "cluster_0_85",
+      "occupation_id": "17-2072.00",
+      "occupation_title": "Electronics Engineers, Except Computer",
+      "task_statement": "Research or develop new green electronics technologies, such as lighting, optical data storage devices, or energy efficient televisions."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19621",
+      "parent": "cluster_0_85",
+      "occupation_id": "17-2072.00",
+      "occupation_title": "Electronics Engineers, Except Computer",
+      "task_statement": "Investigate green consumer electronics applications for consumer electronic devices, power saving devices for computers or televisions, or energy efficient power chargers."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_94",
+      "name": ""
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20171",
+      "parent": "cluster_0_94",
+      "occupation_id": "11-9041.00",
+      "occupation_title": "Architectural and Engineering Managers",
+      "task_statement": "Direct, review, or approve project design changes."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_14680",
+      "parent": "cluster_0_94",
+      "occupation_id": "15-1299.08",
+      "occupation_title": "Computer Systems Engineers/Architects",
+      "task_statement": "Develop or approve project plans, schedules, or budgets."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_114",
+      "name": ""
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15626",
+      "parent": "cluster_0_114",
+      "occupation_id": "11-9121.02",
+      "occupation_title": "Water Resource Specialists",
+      "task_statement": "Monitor water use, demand, or quality in a particular geographic area."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16336",
+      "parent": "cluster_0_114",
+      "occupation_id": "17-2051.02",
+      "occupation_title": "Water/Wastewater Engineers",
+      "task_statement": "Gather and analyze water use data to forecast water demand."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_113",
+      "name": ""
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15861",
+      "parent": "cluster_0_113",
+      "occupation_id": "13-1081.01",
+      "occupation_title": "Logistics Engineers",
+      "task_statement": "Propose logistics solutions for customers."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15877",
+      "parent": "cluster_0_113",
+      "occupation_id": "13-1081.01",
+      "occupation_title": "Logistics Engineers",
+      "task_statement": "Provide logistics technology or information for effective and efficient support of product, equipment, or system manufacturing or service."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_97",
+      "name": ""
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18471",
+      "parent": "cluster_0_97",
+      "occupation_id": "17-2041.00",
+      "occupation_title": "Chemical Engineers",
+      "task_statement": "Troubleshoot problems with chemical manufacturing processes."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18181",
+      "parent": "cluster_0_97",
+      "occupation_id": "17-2112.03",
+      "occupation_title": "Manufacturing Engineers",
+      "task_statement": "Troubleshoot new or existing product problems involving designs, materials, or processes."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_43",
+      "name": ""
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18132",
+      "parent": "cluster_0_43",
+      "occupation_id": "17-2112.02",
+      "occupation_title": "Validation Engineers",
+      "task_statement": "Conduct audits of validation or performance qualification processes to ensure compliance with internal or regulatory requirements."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16958",
+      "parent": "cluster_0_43",
+      "occupation_id": "19-4099.01",
+      "occupation_title": "Quality Control Analysts",
+      "task_statement": "Participate in internal assessments and audits as required."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_125",
+      "name": ""
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21890",
+      "parent": "cluster_0_125",
+      "occupation_id": "17-2121.00",
+      "occupation_title": "Marine Engineers and Naval Architects",
+      "task_statement": "Perform monitoring activities to ensure that ships comply with international regulations and standards for life-saving equipment and pollution preventatives."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21897",
+      "parent": "cluster_0_125",
+      "occupation_id": "17-2121.00",
+      "occupation_title": "Marine Engineers and Naval Architects",
+      "task_statement": "Act as liaisons between ships' captains and shore personnel to ensure that schedules and budgets are maintained, and that ships are operated safely and efficiently."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_103",
+      "name": ""
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20857",
+      "parent": "cluster_0_103",
+      "occupation_id": "17-2199.03",
+      "occupation_title": "Energy Engineers, Except Wind and Solar",
+      "task_statement": "Advise clients or colleagues on topics such as climate control systems, energy modeling, data logging, sustainable design, or energy auditing."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_18149",
+      "parent": "cluster_0_103",
+      "occupation_id": "17-2199.03",
+      "occupation_title": "Energy Engineers, Except Wind and Solar",
+      "task_statement": "Consult with construction or renovation clients or other engineers on topics such as Leadership in Energy and Environmental Design (LEED) or Green Buildings."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_128",
+      "name": ""
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16613",
+      "parent": "cluster_0_128",
+      "occupation_id": "17-3029.01",
+      "occupation_title": "Non-Destructive Testing Specialists",
+      "task_statement": "Produce images of objects on film, using radiographic techniques."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_16618",
+      "parent": "cluster_0_128",
+      "occupation_id": "17-3029.01",
+      "occupation_title": "Non-Destructive Testing Specialists",
+      "task_statement": "Make radiographic images to detect flaws in objects while leaving objects intact."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_0_88",
+      "name": ""
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_13750",
+      "parent": "cluster_0_88",
+      "occupation_id": "49-3041.00",
+      "occupation_title": "Farm Equipment Mechanics and Service Technicians",
+      "task_statement": "Maintain, repair, and overhaul farm machinery and vehicles, such as tractors, harvesters, and irrigation systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_13760",
+      "parent": "cluster_0_88",
+      "occupation_id": "49-3041.00",
+      "occupation_title": "Farm Equipment Mechanics and Service Technicians",
+      "task_statement": "Install and repair agricultural irrigation, plumbing, and sprinkler systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_1_27",
+      "name": ""
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15865",
+      "parent": "cluster_1_27",
+      "occupation_id": "13-1081.01",
+      "occupation_title": "Logistics Engineers",
+      "task_statement": "Design plant distribution centers."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_5335",
+      "parent": "cluster_1_27",
+      "occupation_id": "17-2021.00",
+      "occupation_title": "Agricultural Engineers",
+      "task_statement": "Design food processing plants and related mechanical systems."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_1_18",
+      "name": ""
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_5384",
+      "parent": "cluster_1_18",
+      "occupation_id": "17-2161.00",
+      "occupation_title": "Nuclear Engineers",
+      "task_statement": "Design or develop nuclear equipment, such as reactor cores, radiation shielding, or associated instrumentation or control mechanisms."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_20957",
+      "parent": "cluster_1_18",
+      "occupation_id": "17-2161.00",
+      "occupation_title": "Nuclear Engineers",
+      "task_statement": "Design or direct nuclear research projects to develop, test, modify, or discover new uses for theoretical models."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_2_0",
+      "name": ""
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_15411",
+      "parent": "cluster_2_0",
+      "occupation_id": "11-3051.01",
+      "occupation_title": "Quality Control Systems Managers",
+      "task_statement": "Collect and analyze production samples to evaluate quality."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21053",
+      "parent": "cluster_2_0",
+      "occupation_id": "17-2112.02",
+      "occupation_title": "Validation Engineers",
+      "task_statement": "Draw samples of raw materials, intermediate products, or finished products for validation testing."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_3_16",
+      "name": ""
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19617",
+      "parent": "cluster_3_16",
+      "occupation_id": "17-2071.00",
+      "occupation_title": "Electrical Engineers",
+      "task_statement": "Design electrical systems or components that minimize electric energy requirements, such as lighting systems designed to account for natural lighting."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_19663",
+      "parent": "cluster_3_16",
+      "occupation_id": "17-2199.07",
+      "occupation_title": "Photonics Engineers",
+      "task_statement": "Design or redesign optical fibers to minimize energy loss."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "cluster_4_5",
+      "name": ""
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21887",
+      "parent": "cluster_4_5",
+      "occupation_id": "17-2121.00",
+      "occupation_title": "Marine Engineers and Naval Architects",
+      "task_statement": "Design complete hull and superstructure according to specifications and test data, in conformity with standards of safety, efficiency, and economy."
+    }
+  },
+  {
+    "group": "nodes",
+    "data": {
+      "id": "point_21891",
+      "parent": "cluster_4_5",
+      "occupation_id": "17-2121.00",
+      "occupation_title": "Marine Engineers and Naval Architects",
+      "task_statement": "Oversee construction and testing of prototype in model basin and develop sectional and waterline curves of hull to establish center of gravity, ideal hull form, and buoyancy and stability data."
+    }
+  }
+]
